@@ -9,7 +9,7 @@ links = ['https://utmb.world/en/runner/2623403.wellington.robertonoronha',
 'https://utmb.world/en/runner/1359763.rogerio.silvestrin'
 ]
 
-def corredor_info(link):
+def corredor_info(link: str):
     dic = {}
     url = str(link)
     page = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 86.0.4240.198Safari / 537.36'})
@@ -21,7 +21,7 @@ def corredor_info(link):
     df_info = pd.DataFrame(dic.values(), index=dic.keys()).set_axis(['Club', 'Team', 'Sponsor(s)', 'Website','UTMB Geral','20K','50K','100K','100m'], axis=1)
     return df_info
 
-def corredor_corridas(link):
+def corredor_corridas(link: str):
     url = str(link)
     page = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 86.0.4240.198Safari / 537.36'})
     soup = BeautifulSoup(page.content, 'html.parser')
@@ -39,6 +39,7 @@ def corredor_corridas(link):
     return df_corridas
 
 print(corredor_info(links[0]))
+print('-'*100)
 print('-'*100)
 print(corredor_corridas(links[0]))
 
