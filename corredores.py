@@ -2,19 +2,28 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-def corredor_info(link: str):
-    dic = {}
-    url = str(link)
-    page = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 86.0.4240.198Safari / 537.36'})
-    soup = BeautifulSoup(page.content, 'html.parser')
-    dict_about = {i: None for i in ['Club', 'Team', 'Sponsor(s)', 'Website']}
-    for i in soup.select('.runner-more-details_details_element__3rIxF'):
-        dict_about[i.find('p').text] = i.find('span').text 
-    dic[link] = list(dict_about.values()) + [i.text for i in soup.select('.performance_stats_container__Guwj0')[0].find_all('h2')]
-    df_info = pd.DataFrame(dic.values(), index=dic.keys()).set_axis(['Club', 'Team', 'Sponsor(s)', 'Website','UTMB Geral','20K','50K','100K','100m'], axis=1)
-    return df_info
+# def corridas(uri:str):
+#     url_corredor = f'https://utmb.world/_next/data/AZM8Mw2pZpHJ-hmhE6gko/en/runner/{uri}.json?runner={uri}'
+#     info = requests.get(url_corredor)
+#     return (info.json()["pageProps"]["results"]["results"])
 
-def corredor_corridas(uri:str):
-    url_corredor = f'https://utmb.world/_next/data/AZM8Mw2pZpHJ-hmhE6gko/en/runner/{uri}.json?runner={uri}'
-    info = requests.get(url_corredor)
-    return pd.DataFrame(info.json()["pageProps"]["results"]["results"])
+def infos(uri:str):
+    url_corredor = f'https://utmb.world/en/runner/{uri}'
+    page = requests.get(url_corredor)
+    soup = BeautifulSoup(page.content, 'html.parser')
+    list_info = ['Club','Team','Sponsor(s)','Description','Geral','20K','50K','100K','100m']
+    element = soup.find_all('div', class_='runner-more-details_details_element__3rIxF')
+
+    dict_about = {i: None for i in list_info}
+    for i in element:
+        if i.find('p', class_='runner-more-details_details_title__RIv1N').text in list_info:
+            dict_about[i.find('p', class_='runner-more-details_details_title__RIv1N').text] = i.find('span', class_='runner-more-details_details_content__ZiSil').text
+
+    list_rankings = [i.text if i.text != '-' else None for i in soup.find_all('h2', class_='performance_stat__hcZM_')]
+    dict_about['Geral'] = list_rankings[0]
+    dict_about['20K'] = list_rankings[1]
+    dict_about['50K'] = list_rankings[2]
+    dict_about['100K'] = list_rankings[3]
+    dict_about['100m'] = list_rankings[4]
+
+    return dict_about
