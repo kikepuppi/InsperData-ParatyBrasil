@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import numpy as np
 
 def infos(uri:str):
     url_corredor = f'https://utmb.world/en/runner/{uri}'
@@ -44,3 +45,27 @@ def corredor_corrida(uri: str):
     url = f'https://api.utmb.world/races/{uri}/results?lang=en&offset=0&limit=10000'
     page = requests.get(url)
     return list(page.json()['results'])
+
+
+def corridas():
+    lista_off = np.arange(0, 44982, 20)
+
+    list_corridas = []
+
+    for num in lista_off:
+        offset = f'&offset={num}'
+        url = f'https://api.utmb.world/search/races-qualifiers?lang=en&dateMin=1999-12-31&dateMax=2025-12-30{offset}'
+        page = requests.get(url)
+        races_dict = page.json()['races']
+
+        for race_dict in races_dict:
+            corrida = {
+                "Corrida": race_dict["eventName"],
+                "URI": race_dict["uriResults"]
+            }
+            list_corridas.append(corrida)
+
+
+    df_corridas = pd.DataFrame(list_corridas)
+    return df_corridas
+
