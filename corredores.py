@@ -68,7 +68,7 @@ class Corredores:
 
     def insertRunners(self, runners_br_df, runners, connection, corredores, size):
         
-        for i in tqdm(range (12420, size)):
+        for i in tqdm(range (size[0], size[1])):
             dic = runners.json()["runners"][i]
             dic.pop('picture')
             dic.pop('ip')
