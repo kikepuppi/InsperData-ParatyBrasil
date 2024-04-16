@@ -68,15 +68,18 @@ class Corredores:
 
     def insertRunners(self, runners_br_df, runners, connection, corredores, size):
         
-        for i in tqdm(range (size)):    
+        for i in tqdm(range (12420, size)):
             dic = runners.json()["runners"][i]
             dic.pop('picture')
             dic.pop('ip')
             dic.update(self.infos(runners_br_df['uri'][i]))
-            stmt = insert(corredores).values(dic)
-            stmt.compile()
-            connection.execute(stmt)
-            connection.commit()    
+            try:
+                stmt = insert(corredores).values(dic)
+                stmt.compile()
+                connection.execute(stmt)
+                connection.commit()
+            except:
+                pass 
     
     def create(self):
         runners_br_df, runners = self.runnersBr()

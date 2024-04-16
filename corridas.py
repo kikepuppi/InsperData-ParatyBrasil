@@ -83,10 +83,14 @@ class Corridas:
 
             dic.update(self.corrida(dic['uri']))
 
-            stmt = insert(corridas).values(dic)
-            stmt.compile()
-            connection.execute(stmt)
-            connection.commit()
+            try:
+                stmt = insert(corridas).values(dic)
+                stmt.compile()
+                connection.execute(stmt)
+                connection.commit()
+            except:
+                pass
+            
         
     def create(self, size):
         list_corridas = self.corridas_total(size)
