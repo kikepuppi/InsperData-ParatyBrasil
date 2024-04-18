@@ -43,15 +43,18 @@ class Corridas:
         lista_infos = ['Title', 'City / Country', 'Day', 'Month', 'Year', 'Race Category', 'Distance', 'Elevation Gain']
         dict_infos = {i: None for i in lista_infos}
 
-        dict_infos['Title'] = soup.find('h1', class_='race-header_rh_race_title__COtYd').text
-        infos = soup.find_all('div', class_='race-header_rh_stat_wrapper__1aSTO')
-        dict_infos['City / Country'] = infos[0].find('span', class_='race-header_rh_start_point__n5N_D').text
-        dict_infos['Day'] = infos[1].find('span', class_='font-18').text.split()[0][:-2]
-        dict_infos['Month'] = infos[1].find('span', class_='font-18').text.split()[1]
-        dict_infos['Year'] = infos[1].find('span', class_='font-18').text.split()[2]
-        dict_infos['Race Category'] = infos[2].find('div',class_='pi-category-logo_container__1zLvC').find('img')['alt']
-        dict_infos['Distance'] = infos[3].find('span', class_='font-18').text.split()[0]
-        dict_infos['Elevation Gain'] = infos[4].find('span', class_='font-18').text.split()[0]
+        try:
+            dict_infos['Title'] = soup.find('h1', class_='race-header_rh_race_title__COtYd').text
+            infos = soup.find_all('div', class_='race-header_rh_stat_wrapper__1aSTO')
+            dict_infos['City / Country'] = infos[0].find('span', class_='race-header_rh_start_point__n5N_D').text
+            dict_infos['Day'] = infos[1].find('span', class_='font-18').text.split()[0][:-2]
+            dict_infos['Month'] = infos[1].find('span', class_='font-18').text.split()[1]
+            dict_infos['Year'] = infos[1].find('span', class_='font-18').text.split()[2]
+            dict_infos['Race Category'] = infos[2].find('div',class_='pi-category-logo_container__1zLvC').find('img')['alt']
+            dict_infos['Distance'] = infos[3].find('span', class_='font-18').text.split()[0]
+            dict_infos['Elevation Gain'] = infos[4].find('span', class_='font-18').text.split()[0]
+        except:
+            pass
 
         return dict_infos
     
