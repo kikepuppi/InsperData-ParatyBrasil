@@ -13,29 +13,10 @@ class Corridas:
 
     def __init__(self):
         pass
-
-    def corridas_total(self, size):
-        lista_off = np.arange(0, size, 20)
-
-        list_corridas = []
-
-        for num in lista_off:
-            offset = f'&offset={num}'
-            url = f'https://api.utmb.world/search/races-qualifiers?lang=en&dateMin=1999-12-31&dateMax=2025-12-30{offset}'
-            page = requests.get(url)
-            races_dict = page.json()['races']
-
-            for race_dict in races_dict:
-                corrida = {
-                    "id": race_dict['id'],
-                    "Corrida": race_dict["eventName"],
-                    "uri": race_dict["uriResults"]
-                }
-                list_corridas.append(corrida)
-
-        return list_corridas
+        self.list_remove = ['name', 'category', 'themeColor', 'themeColorIsDark', 'logoWs', 'url', 'distance', 'elevationGain', 'hasResults', 'startDate', 'startCountry', 'startPlace', 'year', 'level', 'nbStones']
     
     def corrida(self, uri: str):
+        
         url = f'https://utmb.world/utmb-index/races/{uri}'
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
@@ -80,11 +61,17 @@ class Corridas:
 
         return connection, corridas
     
-    def insertCorridas(self, list_corridas, connection, corridas):
+    def insertCorridas(self, connection, corridas):
 
-        for dic in tqdm(list_corridas):    
+        with open('corridas_total.json', 'r') as f:
+            list_corridas = list(json.load(f))
+            
+        for dic in tqdm(list_corridas):  
 
-            dic.update(self.corrida(dic['uri']))
+            for key in self.list_remove:
+                dic.pop(key)
+
+            dic.update(self.corrida(dic['uriResults']))
 
             try:
                 stmt = insert(corridas).values(dic)
@@ -95,12 +82,11 @@ class Corridas:
                 pass
             
         
-    def create(self, size):
-        list_corridas = self.corridas_total(size)
+    def create(self):
         connection, corridas = self.createCorridasTable()
         
-        return list_corridas, connection, corridas
+        return connection, corridas
 
-    def run(self, list_corridas, connection, corridas):
+    def run(self, connection, corridas):
             
-            self.insertCorridas(list_corridas, connection, corridas)
+            self.insertCorridas(connection, corridas)
