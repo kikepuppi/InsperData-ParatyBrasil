@@ -12,7 +12,7 @@ import numpy as np
 class Corridas:
 
     def __init__(self):
-        pass
+
         self.list_remove = ['name', 'category', 'themeColor', 'themeColorIsDark', 'logoWs', 'url', 'distance', 'elevationGain', 'hasResults', 'startDate', 'startCountry', 'startPlace', 'year', 'level', 'nbStones']
     
     def corrida(self, uri: str):
@@ -45,7 +45,7 @@ class Corridas:
         metadata = db.MetaData()
 
         corridas = db.Table('corridas', metadata,
-                        db.Column('id', db.Integer(), primary_key=True),
+                        db.Column('id-corrida', db.Integer(), primary_key=True),
                         db.Column('Corrida', db.String(255)),
                         db.Column('uri', db.String(255)),
                         db.Column('Title', db.String(255)),
@@ -71,7 +71,11 @@ class Corridas:
             for key in self.list_remove:
                 dic.pop(key)
 
-            dic.update(self.corrida(dic['uriResults']))
+            dic['id-corrida'] = dic.pop('id')
+            dic['Corrida'] = dic.pop('eventName')
+            dic['uri'] = dic.pop('uriResults')
+
+            dic.update(self.corrida(dic['uri']))
 
             try:
                 stmt = insert(corridas).values(dic)
