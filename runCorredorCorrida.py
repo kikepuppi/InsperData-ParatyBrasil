@@ -1,5 +1,4 @@
 from corredorcorrida import CorredorCorrida
-import requests
 import sqlalchemy as db
 
 def get_uris():

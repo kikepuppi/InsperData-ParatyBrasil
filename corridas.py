@@ -94,3 +94,17 @@ class Corridas:
     def run(self, connection, corridas):
             
             self.insertCorridas(connection, corridas)
+
+    def to_csv(self):
+        engine = db.create_engine('sqlite:///utmb.sqlite')
+        connection = engine.connect()
+        metadata = db.MetaData()
+        corridas = db.Table('corridas', metadata, autoload_with=engine)
+
+        query = db.select(corridas)
+        ResultProxy = connection.execute(query)
+        ResultSet = ResultProxy.fetchall()
+
+        df = pd.DataFrame(ResultSet)
+        df.columns = [column for column in corridas.columns]
+        df.to_csv('corridas.csv', index=False)

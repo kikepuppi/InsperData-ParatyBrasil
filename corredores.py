@@ -91,4 +91,18 @@ class Corredores:
             
             self.insertRunners(runners_br_df, runners, connection, corredores, size)
 
+    def to_csv(self):
+        engine = db.create_engine('sqlite:///utmb.sqlite')
+        connection = engine.connect()
+        metadata = db.MetaData()
+        corredores = db.Table('corredores', metadata, autoload_with=engine)
+
+        query = db.select(corredores)
+        ResultProxy = connection.execute(query)
+        ResultSet = ResultProxy.fetchall()
+
+        df = pd.DataFrame(ResultSet)
+        df.columns = [column for column in corredores.columns]
+        df.to_csv('corredores.csv', index=False)
+
 
