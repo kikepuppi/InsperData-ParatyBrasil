@@ -46,7 +46,7 @@ class Corredores:
         metadata = db.MetaData()
 
         corredores = db.Table('corredores', metadata,
-                        db.Column('id', db.Integer(), primary_key=True),
+                        db.Column('id-corredor', db.Integer(), primary_key=True),
                         db.Column('ageGroup', db.String(255)),
                         db.Column('fullname', db.String(255)),
                         db.Column('uri', db.String(255)),
