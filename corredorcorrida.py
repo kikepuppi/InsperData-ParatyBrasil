@@ -15,21 +15,24 @@ class CorredorCorrida:
     def __init__(self):
         pass
 
-    def corredorcorrida(self, uri):
+    def corredorcorrida(self, uri, id):
+
         url = f'https://api.utmb.world/races/{uri}/results?lang=en&offset=0&limit=10000'
         response = requests.get(url)
 
         if response.status_code == 200:
             results = response.json().get('results', [])
             
-            id_corrida = uri.split('.')[0]
+            id_corrida = id
             
-            list_corrida = [{
-                'id_corrida': id_corrida,
-                'id_corredor': result.get('runnerUri', '').split('.')[0],
-                'time': result.get('time', ''),
-                'rank': result.get('rank', '')
-            } for result in results]
+            list_corrida = [
+                {
+                        'id-corrida': id_corrida,
+                        'id-corredor': result.get('runnerUri', '').split('.')[0] if result.get('runnerUri') else None,
+                        'time': result.get('time', ''),
+                        'rank': result.get('rank', '')
+            } 
+            for result in results]
             
             return list_corrida
         
@@ -55,7 +58,7 @@ class CorredorCorrida:
 
     def insertCorredorCorrida(self, connection, corredorcorrida, list_corrida):
 
-        for corredor in tqdm(list_corrida):
+        for corredor in list_corrida:
 
             try:
                 stmt = insert(corredorcorrida).values(corredor)
@@ -70,8 +73,8 @@ class CorredorCorrida:
         connection, corredorcorrida = self.createCorredorCorridaTable()
         return connection, corredorcorrida
     
-    def run(self, connection, corredorcorrida, uri):
+    def run(self, connection, corredorcorrida, uri, id):
     
-        list_corrida = self.corredorcorrida(uri)
+        list_corrida = self.corredorcorrida(uri, id)
         self.insertCorredorCorrida(connection, corredorcorrida, list_corrida)
 
