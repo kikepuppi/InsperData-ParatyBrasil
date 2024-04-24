@@ -31,7 +31,7 @@ def main():
     corredorcorrida = CorredorCorrida()
     create = corredorcorrida.create()
 
-    for i,uri in tqdm(enumerate(uris)):
+    for i,uri in enumerate(tqdm(uris)):
         id = ids[i]
         corredorcorrida.run(create[0], create[1], uri, id)
 
