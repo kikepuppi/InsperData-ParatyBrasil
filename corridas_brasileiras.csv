@@ -1,0 +1,442 @@
+corridas.id-corrida,corridas.Corrida,corridas.uri,corridas.Title,corridas.City / Country,corridas.Day,corridas.Month,corridas.Year,corridas.Race Category,corridas.Distance,corridas.Elevation Gain
+41,DESAFIO PRAIAS E TRILHAS,424.desafiopraiasetrilhasdesafiopraiasetrilhas.2007,DESAFIO PRAIAS E TRILHAS 2007,Brazil,1,January,2007,20K,42,500
+42,JUNGLE MARATHON,520.junglemarathonjunglemarathon242km.2007,JUNGLE MARATHON 2007 - JUNGLE MARATHON 242KM,Brazil,1,January,2007,50K,87,-1
+401,DESAFIO PRAIAS E TRILHAS,424.desafiopraiasetrilhasdesafiopraiasetrilhas.2008,DESAFIO PRAIAS E TRILHAS 2008,Brazil,1,January,2008,20K,42,500
+402,JUNGLE MARATHON,520.junglemarathonjunglemarathon242km.2008,JUNGLE MARATHON 2008 - JUNGLE MARATHON 242KM,Brazil,1,January,2008,50K,87,-1
+877,JUNGLE MARATHON,520.junglemarathonjunglemarathon242km.2009,JUNGLE MARATHON 2009 - JUNGLE MARATHON 242KM,Brazil,8,October,2009,50K,87,-1
+878,DESAFIO PRAIAS E TRILHAS,424.desafiopraiasetrilhasdesafiopraiasetrilhas.2009,DESAFIO PRAIAS E TRILHAS 2009,Brazil,1,January,2009,20K,42,500
+1672,BRAZIL RUNNING ADVENTURE RACE,820.brazilrunningadventureracebrazilrunningadventurerace-124km.2010,BRAZIL RUNNING ADVENTURE RACE 2010 - BRAZIL RUNNING ADVENTURE RACE - 124KM,Brazil,5,May,2010,20K,38,-1
+1824,BRAZIL 135,901.brazil135brazil135-br135-.2010,BRAZIL 135 2010 - BRAZIL 135 (BR135),Brazil,24,January,2010,100M,217,5130
+1906,JUNGLE MARATHON,520.junglemarathonjunglemarathon242km.2010,JUNGLE MARATHON 2010 - JUNGLE MARATHON 242KM,Brazil,7,October,2010,50K,90,-1
+1907,JUNGLE MARATHON,520.junglemarathonjunglemarathon242km.2011,JUNGLE MARATHON 2011 - JUNGLE MARATHON 242KM,Brazil,6,October,2011,50K,90,-1
+1908,DESAFIO PRAIAS E TRILHAS,424.desafiopraiasetrilhasdesafiopraiasetrilhas.2010,DESAFIO PRAIAS E TRILHAS 2010,Brazil,23,October,2010,20K,42,500
+1984,BRAZIL RUNNING ADVENTURE RACE,820.brazilrunningadventureracebrazilrunningadventurerace-124km.2011,BRAZIL RUNNING ADVENTURE RACE 2011 - BRAZIL RUNNING ADVENTURE RACE - 124KM,Brazil,12,May,2011,20K,38,-1
+1985,BRAZIL RUNNING ADVENTURE RACE,935.brazilrunningadventureracedesertrunextrembrazil.2011,BRAZIL RUNNING ADVENTURE RACE 2011 - DESERT RUN EXTREM BRAZIL,Brazil,14,May,2011,100M,200,-1
+2703,BRAZIL 135,901.brazil135brazil135-br135-.2011,BRAZIL 135 2011 - BRAZIL 135 (BR135),Brazil,21,January,2011,100M,217,5130
+2704,BRAZIL 135,901.brazil135brazil135-br135-.2012,BRAZIL 135 2012 - BRAZIL 135 (BR135),Brazil,21,January,2012,100M,217,5130
+3105,Xterra Ilhabela,3427.xterrailhabelaendurance.2011,Xterra Ilhabela 2011 - Endurance,Brazil,24,September,2011,50K,50,1800
+3110,DESAFIO PRAIAS E TRILHAS,424.desafiopraiasetrilhasdesafiopraiasetrilhas.2011,DESAFIO PRAIAS E TRILHAS 2011,Brazil,22,October,2011,20K,42,500
+3121,BRAZIL RUNNING ADVENTURE RACE,820.brazilrunningadventureracebrazilrunningadventurerace-124km.2012,BRAZIL RUNNING ADVENTURE RACE 2012 - BRAZIL RUNNING ADVENTURE RACE - 124KM,Brazil,1,May,2012,20K,38,-1
+3230,JUNGLE MARATHON,520.junglemarathonjunglemarathon242km.2012,JUNGLE MARATHON 2012 - JUNGLE MARATHON 242KM,Brazil,4,October,2012,100K,105,-1
+3231,JUNGLE MARATHON,1284.junglemarathonjunglemarathon110km.2012,JUNGLE MARATHON 2012 - JUNGLE MARATHON 110KM,Brazil,4,October,2012,20K,38,-1
+3450,BRAZIL RUNNING ADVENTURE RACE,935.brazilrunningadventureracedesertrunextrembrazil.2012,BRAZIL RUNNING ADVENTURE RACE 2012 - DESERT RUN EXTREM BRAZIL,Brazil,15,May,2012,100K,170,-1
+3600,Xterra Brazil Ilhabela,1431.xterrabrazililhabelaendurance.2012,Xterra Brazil Ilhabela 2012 - Endurance,Brazil,21,April,2012,100K,80,3550
+4364,BRAZIL 135,901.brazil135brazil135-br135-.2013,BRAZIL 135 2013 - BRAZIL 135 (BR135),Brazil,18,January,2013,100M,217,5130
+4370,JUNGLE MARATHON,520.junglemarathonjunglemarathon242km.2013,JUNGLE MARATHON 2013 - JUNGLE MARATHON 242KM,Brazil,3,October,2013,100K,108,-1
+4584,Desafio das Serras,1731.desafiodasserras80km.2012,Desafio das Serras 2012 - 80 Km,Brazil,1,September,2012,50K,41,2408
+4585,DESAFIO PRAIAS E TRILHAS,424.desafiopraiasetrilhasdesafiopraiasetrilhas.2013,DESAFIO PRAIAS E TRILHAS 2013,Brazil,19,October,2013,20K,42,500
+4590,Ultramaratona Dos Anjos Internacional,1735.ultramaratonadosanjosinternacional235kmx-hard.2012,Ultramaratona Dos Anjos Internacional 2012 - 235 Km X-Hard,Brazil,7,June,2012,100M,235,3536
+4661,BRAZIL RUNNING ADVENTURE RACE,820.brazilrunningadventureracebrazilrunningadventurerace-124km.2013,BRAZIL RUNNING ADVENTURE RACE 2013 - BRAZIL RUNNING ADVENTURE RACE - 124KM,Brazil,20,May,2013,20K,42,-1
+4662,BRAZIL RUNNING ADVENTURE RACE,1764.brazilrunningadventureracebrazilrunningadventurerace-60km.2013,BRAZIL RUNNING ADVENTURE RACE 2013 - BRAZIL RUNNING ADVENTURE RACE - 60KM ,Brazil,23,May,2013,20K,36,-1
+4663,BRAZIL RUNNING ADVENTURE RACE,1765.brazilrunningadventureracebrazilrunningadventurerace-160km.2013,BRAZIL RUNNING ADVENTURE RACE 2013 - BRAZIL RUNNING ADVENTURE RACE - 160KM,Brazil,21,May,2013,100K,160,-1
+4866,JUNGLE MARATHON,1284.junglemarathonjunglemarathon110km.2013,JUNGLE MARATHON 2013 - JUNGLE MARATHON 110KM,Brazil,3,October,2013,20K,42,-1
+4972,BRAZIL 135,901.brazil135brazil135-br135-.2009,BRAZIL 135 2009 - BRAZIL 135 (BR135),Brazil,23,January,2009,100M,217,5130
+4973,BRAZIL 135,901.brazil135brazil135-br135-.2008,BRAZIL 135 2008 - BRAZIL 135 (BR135),Brazil,21,January,2008,100M,217,5130
+4974,BRAZIL 135,901.brazil135brazil135-br135-.2007,BRAZIL 135 2007 - BRAZIL 135 (BR135),Brazil,12,January,2007,100M,217,5130
+5355,Ultramaratona Dos Anjos Internacional,1735.ultramaratonadosanjosinternacional235kmx-hard.2013,Ultramaratona Dos Anjos Internacional 2013 - 235 Km X-Hard,Brazil,7,June,2013,100M,235,3530
+5636,ULTRA DESAFIO 50 MILHAS,2057.ultradesafio50milhasultradesafio50milhas-campinas-solo-.2013,ULTRA DESAFIO 50 MILHAS 2013 - ULTRA DESAFIO 50 MILHAS - CAMPINAS (SOLO),Brazil,16,March,2013,100K,80,2349
+5881,Short and Half Brasil,2169.shortandhalfbrasilhalfmisionbrasilserrafina-80km.2013,Short and Half Brasil 2013 - HALF MISION BRASIL SERRA FINA - 80KM,Brazil,12,October,2013,100K,77.1,4610
+6411,Desafio das Serras,1731.desafiodasserras80km.2013,Desafio das Serras 2013 - 80 Km,Brazil,7,September,2013,50K,39.2,2392
+6482,Xterra Brazil Ilhabela,1431.xterrabrazililhabelaendurance.2013,Xterra Brazil Ilhabela 2013 - Endurance,Brazil,22,June,2013,100K,76.6,3524
+6591,ULTRA DESAFIO 50 MILHAS,2403.ultradesafio50milhasultradesafio50milhas2aetapa-campinas-solo-.2013,ULTRA DESAFIO 50 MILHAS 2013 - ULTRA DESAFIO 50 MILHAS 2A ETAPA - CAMPINAS (SOLO),Brazil,20,July,2013,100K,83.6,2459
+6645,Maratona dos Perdidos,2419.maratonadosperdidos45k.2014,Maratona dos Perdidos 2014 - 45K,Brazil,19,July,2014,50K,45,2925
+7155,Xterra Ilhabela,3427.xterrailhabelaendurance.2013,Xterra Ilhabela 2013 - Endurance,Brazil,22,June,2013,50K,50.6,2135
+7269,BRAZIL 135,901.brazil135brazil135-br135-.2014,BRAZIL 135 2014 - BRAZIL 135 (BR135),Brazil,17,January,2014,100M,217,5130
+7766,Xterra Brazil Ilhabela,1431.xterrabrazililhabelaendurance.2014,Xterra Brazil Ilhabela 2014 - Endurance,Brazil,7,June,2014,100K,80,3803
+7825,Xterra Ilhabela,3427.xterrailhabelaendurance.2014,Xterra Ilhabela 2014 - Endurance,Brazil,27,September,2014,50K,50,1568
+7898,Desafio das Serras,1731.desafiodasserras80km.2014,Desafio das Serras 2014 - 80 Km,Brazil,6,September,2014,50K,81,51
+7947,Short and Half Brasil,2169.shortandhalfbrasilhalfmisionbrasilserrafina-80km.2014,Short and Half Brasil 2014 - HALF MISION BRASIL SERRA FINA - 80KM,Brazil,9,August,2014,100K,77.1,4610
+8258,Indomit costa esmeralda ultra-trail�,2963.indomitcostaesmeraldaultra-trail-100km.2014,Indomit costa esmeralda ultra-trail� 2014 - 100 KM,Brazil,17,May,2014,100K,100,3000
+8269,Xterra Estrada Real,3426.xterraestradarealendurance50k.2014,Xterra Estrada Real 2014 - Endurance 50K,Brazil,28,September,2014,50K,50,1446
+8270,Xterra Estrada Real,3008.xterraestradarealendurance80k.2014,Xterra Estrada Real 2014 - Endurance 80K,Brazil,27,September,2014,100K,80,2083
+8388,Indomit costa esmeralda ultra-trail�,3033.indomitcostaesmeraldaultra-trail-65km.2014,Indomit costa esmeralda ultra-trail� 2014 - 65 km,Brazil,17,May,2014,50K,65,2148
+8899,APTR Ultra Itacolomi,3237.aptrultraitacolomi55km.2015,APTR Ultra Itacolomi 2015 - 55 Km,Brazil,4,July,2015,50K,55.4,2120
+8900,APTR Ultra Itacolomi,3237.aptrultraitacolomi55km.2014,APTR Ultra Itacolomi 2014 - 55 Km,Brazil,1,November,2014,50K,55.4,2120
+9012,APTR Ultra de Videiras,3294.aptrultradevideiras55km.2015,APTR Ultra de Videiras 2015 - 55 Km,Brazil,16,May,2015,50K,53.8,2760
+9353,Indomit costa esmeralda ultra-trail�,2963.indomitcostaesmeraldaultra-trail-100km.2015,Indomit costa esmeralda ultra-trail� 2015 - 100 KM,Brazil,7,November,2015,100K,100.4,2820
+9356,Indomit costa esmeralda ultra-trail�,3441.indomitcostaesmeraldaultra-trail-80km.2015,Indomit costa esmeralda ultra-trail� 2015 - 80 Km,Brazil,7,November,2015,100K,80.1,2490
+9363,Xterra Costa Verde,3400.xterracostaverdeendurance.2015,Xterra Costa Verde 2015 - Endurance,Brazil,3,March,2015,50K,51.8,930
+9432,Xterra Estrada Real,3426.xterraestradarealendurance50k.2015,Xterra Estrada Real 2015 - Endurance 50K,Brazil,26,September,2015,50K,49.7,1260
+9433,Xterra Ilhabela,3427.xterrailhabelaendurance.2015,Xterra Ilhabela 2015 - Endurance,Brazil,29,August,2015,50K,49.6,1770
+9452,Extremo Sul - World's Largest Beach,3447.extremosul-world-slargestbeachextremosul-world-slargestbeach.2015,Extremo Sul - World's Largest Beach 2015,Brazil,11,November,2015,100M,222.6,420
+9562,Short and Half Brasil,2169.shortandhalfbrasilhalfmisionbrasilserrafina-80km.2015,Short and Half Brasil 2015 - HALF MISION BRASIL SERRA FINA - 80KM,Brazil,20,June,2015,100K,71.8,4334
+9578,Maratona dos Perdidos,2419.maratonadosperdidos45k.2015,Maratona dos Perdidos 2015 - 45K,Brazil,18,July,2015,50K,48.5,2650
+9585,The North Face Endurance Challenge Ultra Trail Agulhas Negras,3526.thenorthfaceendurancechallengeultratrailagulhasnegras80k.2015,The North Face Endurance Challenge Ultra Trail Agulhas Negras 2015 - 80K,Brazil,23,May,2015,100K,92.8,3756
+9675,Indomit S�o Paulo,3520.indomitsaopaulo50km.2015,Indomit S�o Paulo 2015 - 50 Km,Brazil,30,May,2015,50K,49.4,2816
+10094,The North Face Endurance Challenge Ultra Trail Agulhas Negras,3767.thenorthfaceendurancechallengeultratrailagulhasnegras50k.2015,The North Face Endurance Challenge Ultra Trail Agulhas Negras 2015 - 50K,Brazil,23,May,2015,50K,50.6,2189
+10146,APTR Ultra de Videiras,3294.aptrultradevideiras55km.2016,APTR Ultra de Videiras 2016 - 55 Km,Brazil,30,April,2016,50K,55.2,2760
+10154,Ultramaratona dos Anjos Internacional,1735.ultramaratonadosanjosinternacional235kmx-hard.2015,Ultramaratona dos Anjos Internacional 2015 - 235 Km X-Hard,Brazil,3,July,2015,100M,233.5,5866
+10204,Ultramaratona dos Anjos Internacional,3814.ultramaratonadosanjosinternacional65kmeasy.2015,Ultramaratona dos Anjos Internacional 2015 - 65 Km Easy,Brazil,3,July,2015,50K,63.7,1902
+10205,Ultramaratona dos Anjos Internacional,3815.ultramaratonadosanjosinternacional95kmmedium.2015,Ultramaratona dos Anjos Internacional 2015 - 95 Km Medium,Brazil,3,July,2015,100K,93.8,2346
+10206,Ultramaratona dos Anjos Internacional,3816.ultramaratonadosanjosinternacional135kmhard.2015,Ultramaratona dos Anjos Internacional 2015 - 135 Km Hard,Brazil,3,July,2015,100M,132.1,3836
+10209,Ultra Desafio Morungaba - SP,3818.ultradesafiomorungaba-sp50milhas.2015,Ultra Desafio Morungaba - SP 2015 - 50 Milhas,Brazil,9,May,2015,50K,76.1,2190
+10355,P4 Ultra Expedition Race,3872.p4ultraexpeditionrace60km.2015,P4 Ultra Expedition Race 2015 - 60 Km,Brazil,6,September,2015,50K,58.9,2005
+10754,Desafio Extremo Estrada Real 100 Milhas De Sabarabu�u,4061.desafioextremoestradareal100milhasdesabarabucu160km.2015,Desafio Extremo Estrada Real 100 Milhas De Sabarabu�u 2015 - 160 Km,Brazil,5,September,2015,100M,161,5153
+11012,Wol Extreme,4168.wolextremewolextreme.2015,Wol Extreme 2015,Brazil,18,July,2015,50K,64.9,2830
+11033,Wol Extreme,4168.wolextremewolextreme.2016,Wol Extreme 2016,Brazil,16,July,2016,50K,64.9,2830
+11146,Maratona dos Perdidos,4225.maratonadosperdidos105k-shortened51k.2016,Maratona dos Perdidos 2016 - 105K - Shortened 51K,Brazil,16,July,2016,50K,52.1,2300
+11200,Ultra Desafio Passa Quatro - MG,4250.ultradesafiopassaquatro-mg160km.2016,Ultra Desafio Passa Quatro - MG 2016 - 160 Km,Brazil,26,February,2016,100M,158.4,5440
+11300,APTR Ultra Itacolomi,3237.aptrultraitacolomi55km.2016,APTR Ultra Itacolomi 2016 - 55 Km,Brazil,2,July,2016,50K,55.4,2120
+11655,APTR Ultra De Pedra Azul,4462.aptrultradepedraazul27km.2016,APTR Ultra De Pedra Azul 2016 - 27 Km,Brazil,13,November,2016,20K,26.9,1150
+11656,APTR Ultra de Videiras,4463.aptrultradevideiras27km.2016,APTR Ultra de Videiras 2016 - 27 Km,Brazil,30,April,2016,20K,27.7,1006
+11716,Ultra Desafio Passa Quatro - MG,4485.ultradesafiopassaquatro-mgud80km.2016,Ultra Desafio Passa Quatro - MG 2016 - UD 80 Km,Brazil,27,February,2016,100K,81.2,2560
+11846,Extremo Sul - World's Largest Beach,3447.extremosul-world-slargestbeachextremosul-world-slargestbeach.2016,Extremo Sul - World's Largest Beach 2016,Brazil,1,December,2016,100M,222.6,420
+11847,Ultramaratona dos Anjos Internacional,1735.ultramaratonadosanjosinternacional235kmx-hard.2016,Ultramaratona dos Anjos Internacional 2016 - 235 Km X-Hard,Brazil,1,July,2016,100M,233.5,5860
+11848,Ultramaratona dos Anjos Internacional,3814.ultramaratonadosanjosinternacional65kmeasy.2016,Ultramaratona dos Anjos Internacional 2016 - 65 Km Easy,Brazil,1,July,2016,50K,64.4,1910
+11849,Ultramaratona dos Anjos Internacional,3815.ultramaratonadosanjosinternacional95kmmedium.2016,Ultramaratona dos Anjos Internacional 2016 - 95 Km Medium,Brazil,1,July,2016,100K,93.8,2350
+11850,Ultramaratona dos Anjos Internacional,3816.ultramaratonadosanjosinternacional135kmhard.2016,Ultramaratona dos Anjos Internacional 2016 - 135 Km Hard,Brazil,1,July,2016,100M,132.1,3840
+11857,P4 Ultra Expedition Race,3872.p4ultraexpeditionrace60km.2016,P4 Ultra Expedition Race 2016 - 60 Km,Brazil,11,September,2016,50K,58.9,2020
+11866,Ultra Desafio Morungaba - SP,3818.ultradesafiomorungaba-sp75km.2016,Ultra Desafio Morungaba - SP 2016 - 75 Km,Brazil,14,May,2016,50K,74.7,2180
+11870,Ultra Desafio Morungaba - SP,4523.ultradesafiomorungaba-sp50km.2016,Ultra Desafio Morungaba - SP 2016 - 50 Km,Brazil,14,May,2016,50K,49.8,1480
+12080,Ultramaratona Dos Anjos Internacional,1735.ultramaratonadosanjosinternacional235kmx-hard.2014,Ultramaratona Dos Anjos Internacional 2014 - 235 Km X-Hard,Brazil,4,July,2014,100M,233.4,5880
+12325,Brazil Mountain Festival Corup�,4730.brazilmountainfestivalcorupa50k.2016,Brazil Mountain Festival Corup� 2016 - 50K,Brazil,27,February,2016,50K,48.4,2480
+12789,Desafio Extremo Estrada Real,4935.desafioextremoestradareal71km.2016,Desafio Extremo Estrada Real 2016 - 71 Km,Brazil,30,April,2016,50K,71.9,2570
+12790,Desafio Extremo Estrada Real,4933.desafioextremoestradareal106km.2016,Desafio Extremo Estrada Real 2016 - 106 Km,Brazil,30,April,2016,100K,105,3720
+12791,Desafio Extremo Estrada Real,4934.desafioextremoestradareal49km.2016,Desafio Extremo Estrada Real 2016 - 49 Km,Brazil,30,April,2016,50K,48.8,1540
+12816,Indomit costa esmeralda ultra-trail�,2963.indomitcostaesmeraldaultra-trail-100km.2016,Indomit costa esmeralda ultra-trail� 2016 - 100 KM,Brazil,29,October,2016,100K,99.5,3311
+12817,Indomit costa esmeralda ultra-trail�,3441.indomitcostaesmeraldaultra-trail-80km.2016,Indomit costa esmeralda ultra-trail� 2016 - 80 Km,Brazil,29,October,2016,100K,79.9,2842
+12818,Indomit S�o Paulo,3520.indomitsaopaulo50km.2016,Indomit S�o Paulo 2016 - 50 Km,Brazil,2,April,2016,50K,49.2,2730
+13140,APTR Ultra de Videiras,5103.aptrultradevideiras75km.2016,APTR Ultra de Videiras 2016 - 75 Km,Brazil,30,April,2016,100K,72.7,3240
+14055,Desafio das Serras,1731.desafiodasserras80km.2016,Desafio das Serras 2016 - 80 Km,Brazil,3,September,2016,50K,76.7,3280
+14735,Indomit costa esmeralda ultra-trail�,5949.indomitcostaesmeraldaultra-trail-50km.2016,Indomit costa esmeralda ultra-trail� 2016 - 50 KM,Brazil,29,October,2016,50K,49.8,1638
+14763,Wol Extreme,4168.wolextremewolextreme.2017,Wol Extreme 2017,Brazil,8,July,2017,50K,64.9,2830
+14963,Maratona dos Perdidos,6073.maratonadosperdidos105k-shortened76k.2016,Maratona dos Perdidos 2016 - 105K - Shortened 76K,Brazil,15,July,2016,100K,76.3,3580
+15631,APTR Ultra de Videiras,3294.aptrultradevideiras63km.2017,APTR Ultra de Videiras 2017 - 63 Km,Brazil,29,April,2017,50K,62.6,3400
+15633,APTR Ultra de Videiras,4463.aptrultradevideiras27km.2017,APTR Ultra de Videiras 2017 - 27 Km,Brazil,29,April,2017,20K,29.2,970
+15635,APTR Ultra de Videiras,5103.aptrultradevideiras84km.2017,APTR Ultra de Videiras 2017 - 84 Km,Brazil,29,April,2017,100K,83.7,4140
+15639,APTR Ultra de Videiras,6387.aptrultradevideiras129km.2017,APTR Ultra de Videiras 2017 - 129 Km,Brazil,28,April,2017,100M,128.8,4880
+15649,APTR Ultra De Pedra Azul,6393.aptrultradepedraazul55km.2016,APTR Ultra De Pedra Azul 2016 - 55 Km,Brazil,12,November,2016,50K,58.6,2370
+15701,APTR ARRAIAL DO CABO,6419.aptrarraialdocabo45k.2016,APTR ARRAIAL DO CABO 2016 - 45K,Brazil,26,November,2016,50K,55.6,1010
+15805,Desafio Extremo Estrada Real 100 Milhas De Sabarabu�u,6459.desafioextremoestradareal100milhasdesabarabucu60km.2016,Desafio Extremo Estrada Real 100 Milhas De Sabarabu�u 2016 - 60 Km,Brazil,5,November,2016,50K,61.8,2120
+15807,Desafio Extremo Estrada Real 100 Milhas De Sabarabu�u,6461.desafioextremoestradareal100milhasdesabarabucu88km.2016,Desafio Extremo Estrada Real 100 Milhas De Sabarabu�u 2016 - 88 Km,Brazil,5,November,2016,100K,90,2950
+15809,Desafio Extremo Estrada Real 100 Milhas De Sabarabu�u,4061.desafioextremoestradareal100milhasdesabarabucu160km.2016,Desafio Extremo Estrada Real 100 Milhas De Sabarabu�u 2016 - 160 Km,Brazil,5,November,2016,100M,159.3,4750
+16189,Ultra Desafio Aiuruoca,6587.ultradesafioaiuruocaud90k.2016,Ultra Desafio Aiuruoca 2016 - UD 90K,Brazil,15,October,2016,100K,90.4,3180
+17393,Ultra Desafio Passa Quatro - MG,4485.ultradesafiopassaquatro-mgud80km.2017,Ultra Desafio Passa Quatro - MG 2017 - UD 80 Km,Brazil,18,February,2017,100K,79.5,2400
+17395,Ultra Desafio Passa Quatro - MG,4250.ultradesafiopassaquatro-mg120km.2017,Ultra Desafio Passa Quatro - MG 2017 - 120 Km,Brazil,18,February,2017,100K,118.6,2950
+17397,Ultra Desafio Morungaba - SP,3818.ultradesafiomorungaba-sp75km.2017,Ultra Desafio Morungaba - SP 2017 - 75 Km,Brazil,20,May,2017,50K,74.6,2180
+17399,Ultra Desafio Morungaba - SP,4523.ultradesafiomorungaba-sp50km.2017,Ultra Desafio Morungaba - SP 2017 - 50 Km,Brazil,20,May,2017,50K,49.8,1470
+17401,Ultramaratona dos Anjos Internacional,1735.ultramaratonadosanjosinternacional235kmx-hard.2017,Ultramaratona dos Anjos Internacional 2017 - 235 Km X-Hard,Brazil,30,June,2017,100M,233.2,5850
+17403,Ultramaratona dos Anjos Internacional,3814.ultramaratonadosanjosinternacional65kmeasy.2017,Ultramaratona dos Anjos Internacional 2017 - 65 Km Easy,Brazil,30,June,2017,50K,64.3,1900
+17405,Ultramaratona dos Anjos Internacional,3815.ultramaratonadosanjosinternacional95kmmedium.2017,Ultramaratona dos Anjos Internacional 2017 - 95 Km Medium,Brazil,30,June,2017,100K,94.3,2320
+17407,Ultramaratona dos Anjos Internacional,3816.ultramaratonadosanjosinternacional135kmhard.2017,Ultramaratona dos Anjos Internacional 2017 - 135 Km Hard,Brazil,30,June,2017,100M,132,3840
+18061,Ultramaratona CS -Brotas / S�o Pedro,4964.ultramaratonacs-brotas-saopedro60km.2017,Ultramaratona CS -Brotas / S�o Pedro 2017 - 60km,Brazil,10,June,2017,50K,61.9,960
+18325,Brazil 135+ Ultramarathon,7377.brazil135-ultramarathon135miles.2017,Brazil 135+ Ultramarathon 2017 - 135 Miles,Brazil,12,January,2017,100M,207.5,6050
+18423,Brazil 135+ Ultramarathon,7413.brazil135-ultramarathon135-.2017,Brazil 135+ Ultramarathon 2017 - 135+,Brazil,12,January,2017,100M,244.3,9109
+18829,Brazil 135+ Ultramarathon,7575.brazil135-ultramarathonmaratona2.2017,Brazil 135+ Ultramarathon 2017 - Maratona 2,Brazil,12,January,2017,100K,84.3,2670
+18831,Brazil 135+ Ultramarathon,7577.brazil135-ultramarathonmaratona3.2017,Brazil 135+ Ultramarathon 2017 - Maratona 3,Brazil,12,January,2017,100K,126,3580
+18833,Brazil 135+ Ultramarathon,7579.brazil135-ultramarathonmaratona4.2017,Brazil 135+ Ultramarathon 2017 - Maratona 4,Brazil,12,January,2017,100M,166.9,4940
+18875,Indomit costa esmeralda ultra-trail�,2963.indomitcostaesmeraldaultra-trail-100km.2017,Indomit costa esmeralda ultra-trail� 2017 - 100 KM,Brazil,28,October,2017,100K,100.2,2990
+18877,Indomit costa esmeralda ultra-trail�,3441.indomitcostaesmeraldaultra-trail-80km.2017,Indomit costa esmeralda ultra-trail� 2017 - 80 Km,Brazil,28,October,2017,100K,82.5,2410
+18879,Indomit Pedra do Ba�,3520.indomitpedradobau50km.2017,Indomit Pedra do Ba� 2017 - 50 Km,Brazil,1,April,2017,50K,48.9,2730
+18881,Indomit costa esmeralda ultra-trail�,5949.indomitcostaesmeraldaultra-trail-50km.2017,Indomit costa esmeralda ultra-trail� 2017 - 50 KM,Brazil,28,October,2017,50K,49.9,1520
+19191,Extremo Sul - World's Largest Beach,3447.extremosul-world-slargestbeachextremosulultramarathon-world-slargestbeach.2017,Extremo Sul - World's Largest Beach 2017 - Extremo Sul Ultramarathon - World's Largest Beach,Brazil,30,November,2017,100M,223.9,330
+19765,APTR ULTRA DE OURO PRETO,3237.aptrultradeouropreto55k.2017,APTR ULTRA DE OURO PRETO 2017 - 55k,Brazil,5,August,2017,50K,60.1,2250
+19903,Vila do Farol INDOMIT Bombinhas,7979.viladofarolindomitbombinhas42km.2017,Vila do Farol INDOMIT Bombinhas 2017 - 42 km,Brazil,19,August,2017,50K,41.5,940
+20009,KTR Campos do Jord�o,8043.ktrcamposdojordao21k.2017,KTR Campos do Jord�o 2017 - 21K,Brazil,22,April,2017,20K,21.6,1450
+20011,KTR Serra Fina,8045.ktrserrafinaktrserrafina.2017,KTR Serra Fina 2017,Brazil,24,June,2017,50K,49.6,3170
+20153,KTR Ilhabela,30665.ktrilhabela35k.2017,KTR Ilhabela 2017 - 35K,Brazil,11,November,2017,50K,34.9,2160
+20155,KTR Itamonte,8093.ktritamonte30k.2017,KTR Itamonte 2017 - 30K,Brazil,26,August,2017,50K,29.1,2100
+20157,KTR Itamonte,8095.ktritamonte20k.2017,KTR Itamonte 2017 - 20K,Brazil,26,August,2017,20K,21.1,1330
+20161,KTR Ilhabela,30666.ktrilhabela20k.2017,KTR Ilhabela 2017 - 20K,Brazil,11,November,2017,20K,18.5,1530
+20163,KTR Serra Fina,8099.ktrserrafina24k.2017,KTR Serra Fina 2017 - 24k,Brazil,24,June,2017,20K,24,1510
+20165,KTR Campos do Jord�o,8101.ktrcamposdojordao42k.2017,KTR Campos do Jord�o 2017 - 42K,Brazil,22,April,2017,50K,41.2,2810
+21083,Extreme Marathon,6241.extrememarathon42k.2017,Extreme Marathon 2017 - 42K,Brazil,16,September,2017,50K,43.1,1900
+21261,Short Mision Brasil,8631.shortmisionbrasil55km.2017,Short Mision Brasil 2017 - 55 Km,Brazil,20,May,2017,50K,57.9,3080
+21337,Ultramaratona dos Perdidos,8677.ultramaratonadosperdidos105k.2017,Ultramaratona dos Perdidos 2017 - 105K,Brazil,14,July,2017,100K,101.7,4750
+21339,Ultramaratona dos Perdidos,8675.ultramaratonadosperdidos25k.2017,Ultramaratona dos Perdidos 2017 - 25K,Brazil,15,July,2017,20K,25.4,1460
+21341,Ultramaratona dos Perdidos,2419.ultramaratonadosperdidos45k.2017,Ultramaratona dos Perdidos 2017 - 45K,Brazil,15,July,2017,50K,44.7,2630
+21343,Volta do Castelhanos,8679.voltadocastelhanosvoltadocastelhanos.2017,Volta do Castelhanos 2017,Brazil,11,June,2017,20K,30,1070
+21345,Brazil Mountain Festival - Ara�atuba,8683.brazilmountainfestival-aracatuba13k.2017,Brazil Mountain Festival - Ara�atuba 2017 - 13K,Brazil,11,March,2017,20K,12.7,790
+21347,Brazil Mountain Festival - Ara�atuba,8681.brazilmountainfestival-aracatuba21k.2017,Brazil Mountain Festival - Ara�atuba 2017 - 21K,Brazil,11,March,2017,20K,22.4,1390
+21509,TRILHAS DO GA�CHO IV ETAPA,8797.trilhasdogauchoivetapa50k.2017,TRILHAS DO GA�CHO IV ETAPA 2017 - 50K,Brazil,22,July,2017,50K,50.2,2570
+22729,Desafio das Serras,9325.desafiodasserraspercursolongo90km.2017,Desafio das Serras 2017 - Percurso Longo 90km,Brazil,23,September,2017,50K,89.2,2960
+22731,Desafio das Serras,9327.desafiodasserraspercursomedio40km.2017,Desafio das Serras 2017 - Percurso M�dio 40km,Brazil,23,September,2017,20K,38.5,1880
+23463,Amazing Runs,9763.amazingrunsserradacanastra64k.2017,Amazing Runs 2017 - Serra da Canastra 64k,Brazil,4,November,2017,50K,64.9,1970
+23693,Amazing Runs,9923.amazingrunsserradacanastra38km.2017,Amazing Runs 2017 - Serra da Canastra 38 km,Brazil,4,November,2017,20K,38.7,680
+23695,Amazing Runs,9925.amazingrunsserradacanastra24km.2017,Amazing Runs 2017 - Serra da Canastra 24km,Brazil,4,November,2017,20K,24.5,220
+23789,APTR Ultra de Videiras,3294.aptrultradevideiras63km.2018,APTR Ultra de Videiras 2018 - 63 Km,Brazil,21,April,2018,50K,66.6,3300
+23821,Amazing Runs Garopaba,9973.amazingrunsgaropabaargaropaba-40km.2017,Amazing Runs Garopaba 2017 - AR Garopaba - 40 km,Brazil,30,September,2017,50K,41.2,1440
+23969,Indomit costa esmeralda ultra-trail�,10031.indomitcostaesmeraldaultra-trail-100milles.2017,Indomit costa esmeralda ultra-trail� 2017 - 100 MILLES,Brazil,27,October,2017,100M,160.9,4440
+24207,Run Brasil Ride,16961.runbrasilrideultra70krunbrasilride.2017,Run Brasil Ride 2017 - Ultra 70k Run Brasil Ride,Brazil,9,December,2017,50K,69.5,2020
+24731,KTR Ilhabela,10371.ktrilhabela80k.2017,KTR Ilhabela 2017 - 80k,Brazil,11,November,2017,100K,76.5,3710
+24797,APTR Ultra de Videiras,4463.aptrultradevideiras27km.2018,APTR Ultra de Videiras 2018 - 27 Km,Brazil,21,April,2018,20K,27.6,1460
+24799,APTR ULTRA DE OURO PRETO,10399.aptrultradeouropreto25k.2017,APTR ULTRA DE OURO PRETO 2017 - 25K,Brazil,5,August,2017,20K,26.2,960
+24801,APTR ARRAIAL DO CABO,10401.aptrarraialdocaboaptrarraialdocabo25k.2016,APTR ARRAIAL DO CABO 2016 - APTR ARRAIAL DO CABO 25K,Brazil,25,November,2016,20K,25.1,820
+24829,DE ELITE TRAIL FESTIVAL,10411.deelitetrailfestivalhardtraildeelite.2017,DE ELITE TRAIL FESTIVAL 2017 - Hard Trail De Elite,Brazil,18,November,2017,20K,30.5,1530
+24927,Ultramaratona Ladeiras 2017,10457.ultramaratonaladeiras2017ultramaratonaladeiras.2017,Ultramaratona Ladeiras 2017 2017 - Ultramaratona Ladeiras,Brazil,18,November,2017,50K,55.5,870
+25175,Ultra Desafio Aiuruoca,6587.ultradesafioaiuruocaud90k.2017,Ultra Desafio Aiuruoca 2017 - UD 90K,Brazil,14,October,2017,100K,90.9,3040
+25209,Brazil 135+ Ultramarathon,7577.brazil135-ultramarathonmaratona3.2018,Brazil 135+ Ultramarathon 2018 - Maratona 3,Brazil,2,February,2018,100K,127.2,3330
+25213,Brazil 135+ Ultramarathon,7377.brazil135-ultramarathon135miles.2018,Brazil 135+ Ultramarathon 2018 - 135 Miles,Brazil,2,February,2018,100M,209.5,5800
+25217,Ultramaratona dos Anjos Internacional,1735.ultramaratonadosanjosinternacional235kmx-hard.2018,Ultramaratona dos Anjos Internacional 2018 - 235 Km X-Hard,Brazil,29,June,2018,100M,235.2,5430
+25219,Ultramaratona dos Anjos Internacional,3814.ultramaratonadosanjosinternacional65kmeasy.2018,Ultramaratona dos Anjos Internacional 2018 - 65 Km Easy,Brazil,29,June,2018,50K,64.8,1840
+25221,Ultramaratona dos Anjos Internacional,3815.ultramaratonadosanjosinternacional95kmmedium.2018,Ultramaratona dos Anjos Internacional 2018 - 95 Km Medium,Brazil,29,June,2018,100K,95.1,2240
+25223,Ultramaratona dos Anjos Internacional,3816.ultramaratonadosanjosinternacional135kmhard.2018,Ultramaratona dos Anjos Internacional 2018 - 135 Km Hard,Brazil,29,June,2018,100K,133.1,3660
+25225,Ultra Desafio Morungaba - SP,3818.ultradesafiomorungaba-spud75km.2018,Ultra Desafio Morungaba - SP 2018 - UD 75 Km,Brazil,5,May,2018,50K,75.1,2070
+25227,Ultra Desafio Morungaba - SP,4523.ultradesafiomorungaba-spud50km.2018,Ultra Desafio Morungaba - SP 2018 - UD 50 Km,Brazil,5,May,2018,50K,50.1,1420
+25229,Ultra Desafio Passa Quatro - MG,4485.ultradesafiopassaquatro-mgud80km.2018,Ultra Desafio Passa Quatro - MG 2018 - UD 80 Km,Brazil,24,February,2018,100K,80.7,2280
+25231,Ultra Desafio Passa Quatro - MG,4250.ultradesafiopassaquatro-mgud120km.2018,Ultra Desafio Passa Quatro - MG 2018 - UD 120 Km,Brazil,24,February,2018,100K,120,2710
+25301,300 - O Desafio,10575.300-odesafio300-odesafio.2018,300 - O Desafio 2018,Brazil,23,March,2018,100M,286.9,4650
+25311,Ultra Desafio - Marmelopolis,10583.ultradesafio-marmelopolis55km.2017,Ultra Desafio - Marmelopolis 2017 - 55km,Brazil,4,November,2017,50K,54.5,1850
+25313,Ultra Desafio - Marmelopolis,10585.ultradesafio-marmelopolismarmelopolis85km.2017,Ultra Desafio - Marmelopolis 2017 - marmelopolis 85km,Brazil,4,November,2017,100K,84.1,2910
+25421,Caminhos de Rosa - ULtramarathon,10653.caminhosderosa-ultramarathon100km.2018,Caminhos de Rosa - ULtramarathon 2018 - 100 km,Brazil,7,September,2018,100K,99.3,1100
+25423,Caminhos de Rosa - ULtramarathon,10651.caminhosderosa-ultramarathon140km.2018,Caminhos de Rosa - ULtramarathon 2018 - 140 km,Brazil,8,September,2018,100K,144.8,1850
+25425,Caminhos de Rosa - ULtramarathon,9135.caminhosderosa-ultramarathon250km.2018,Caminhos de Rosa - ULtramarathon 2018 - 250 km,Brazil,7,September,2018,100M,242.1,2800
+25427,Caminhos de Rosa - ULtramarathon,10655.caminhosderosa-ultramarathon50km.2018,Caminhos de Rosa - ULtramarathon 2018 - 50 km,Brazil,8,September,2018,50K,57.1,770
+25453,WTR Serra do Mar,10677.wtrserradomar50k.2017,WTR Serra do Mar 2017 - 50k,Brazil,25,November,2017,50K,52.6,2710
+25833,APTR MATO LIMPO,10771.aptrmatolimpo42k.2017,APTR MATO LIMPO 2017 - 42K,Brazil,30,September,2017,50K,44.4,2460
+25955,APTR ARRAIAL DO CABO,6419.aptrarraialdocabo45k.2018,APTR ARRAIAL DO CABO 2018 - 45k,Brazil,24,November,2018,50K,46.1,600
+25957,APTR ARRAIAL DO CABO,10401.aptrarraialdocabo25k.2017,APTR ARRAIAL DO CABO 2017 - 25K,Brazil,25,November,2017,20K,24.9,580
+25959,APTR ARRAIAL DO CABO,6419.aptrarraialdocabo45k.2017,APTR ARRAIAL DO CABO 2017 - 45K,Brazil,25,November,2017,50K,46.1,600
+26059,XC RUN,10895.xcrunbuzios.2017,XC RUN 2017 - B�zios,Brazil,21,October,2017,20K,41.9,740
+26245,APTR ARRAIAL DO CABO,10401.aptrarraialdocabo25k.2018,APTR ARRAIAL DO CABO 2018 - 25K,Brazil,24,November,2018,20K,24.9,580
+26393,Insanity Mountain - Mestre Alvaro,11005.insanitymountain-mestrealvaro30km.2018,Insanity Mountain - Mestre Alvaro 2018 - 30 km,Brazil,31,March,2018,50K,32.4,2600
+26847,Insanity Mountain - Buenos Aires,11161.insanitymountain-buenosaires45km.2018,Insanity Mountain - Buenos Aires 2018 - 45 Km,Brazil,14,October,2018,50K,44.8,2020
+26895,DESAFIO CORJA PEDRA BRANCA,11183.desafiocorjapedrabrancacruzadacorja-27km.2018,DESAFIO CORJA PEDRA BRANCA 2018 - CRUZADA CORJA - 27KM,Brazil,6,May,2018,20K,26.8,2056
+27151,La Mision Brasil,11267.lamisionbrasilhalfmisionbrasil.2018,La Mision Brasil 2018 - Half Mision Brasil,Brazil,18,August,2018,100K,76.2,5180
+27153,La Mision Brasil,11263.lamisionbrasilminishortbrasil.2018,La Mision Brasil 2018 - Mini Short Brasil,Brazil,18,August,2018,50K,30.6,2100
+27155,La Mision Brasil,11265.lamisionbrasilshortmisionbrasil.2018,La Mision Brasil 2018 - Short Mision Brasil,Brazil,1,August,2018,50K,48.5,2520
+27255,Trilhas do Morro Gaucho - IV Etapa CGCTM,8797.trilhasdomorrogaucho-ivetapacgctm46kbrutusdogaucho.2018,Trilhas do Morro Gaucho - IV Etapa CGCTM 2018 - 46K Brutus do Gaucho,Brazil,28,July,2018,50K,47.1,2130
+27689,Caminhos de Rosa - ULtramarathon,11439.caminhosderosa-ultramarathon300km.2018,Caminhos de Rosa - ULtramarathon 2018 - 300 km,Brazil,6,September,2018,100M,298.9,3380
+28529,Trilhas Salto Ventoso - I Etapa CGCTM,11781.trilhassaltoventoso-ietapacgctm27ktrilhassaltoventoso.2018,Trilhas Salto Ventoso - I Etapa CGCTM 2018 - 27K Trilhas Salto Ventoso,Brazil,17,March,2018,20K,27.5,1120
+28567,Trilhas do Morro Gaucho - IV Etapa CGCTM,11807.trilhasdomorrogaucho-ivetapacgctm27kbrutusdogaucho.2018,Trilhas do Morro Gaucho - IV Etapa CGCTM 2018 - 27K Brutus do Gaucho,Brazil,28,July,2018,20K,27.4,1400
+28939,Naventura Ouro Fino,11963.naventuraourofino30km.2018,Naventura Ouro Fino 2018 - 30km,Brazil,24,February,2018,20K,29.1,1120
+29009,AEUT - AMAZONIA ENDURANCE ULTRA TRAIL,11985.aeut-amazoniaenduranceultratrailaeutitaqui30k.2018,AEUT - AMAZONIA ENDURANCE ULTRA TRAIL 2018 - AEUT ITAQUI 30K,Brazil,18,March,2018,20K,27.9,210
+29011,AEUT - AMAZONIA ENDURANCE ULTRA TRAIL,11987.aeut-amazoniaenduranceultratrailaeutitaqui50k.2018,AEUT - AMAZONIA ENDURANCE ULTRA TRAIL 2018 - AEUT ITAQUI 50K,Brazil,18,March,2018,50K,49.6,390
+29051,Sul Trail Run - II Etapa CGCTM,12001.sultrailrun-iietapacgctm27ktrilhastupandi.2018,Sul Trail Run - II Etapa CGCTM 2018 - 27K Trilhas Tupandi,Brazil,21,April,2018,20K,27.1,1290
+29105,Faccat Trail Run,12031.faccattrailrunfaccattrailrun.2018,Faccat Trail Run 2018,Brazil,28,July,2018,50K,50.8,1660
+29283,TUTAN Transmantiqueira UT Agulhas Negras,12093.tutantransmantiqueirautagulhasnegrastutan42k.2018,TUTAN Transmantiqueira UT Agulhas Negras 2018 - TUTAN 42k,Brazil,21,April,2018,50K,43.4,1290
+29303,TUTAN Transmantiqueira UT Agulhas Negras,12105.tutantransmantiqueirautagulhasnegrastutan70k.2018,TUTAN Transmantiqueira UT Agulhas Negras 2018 - TUTAN 70k,Brazil,21,April,2018,100K,72.8,3010
+29305,TUTAN Transmantiqueira UT Agulhas Negras,12107.tutantransmantiqueirautagulhasnegrastutan100k.2018,TUTAN Transmantiqueira UT Agulhas Negras 2018 - TUTAN 100k ,Brazil,21,April,2018,100K,105.8,3950
+30011,WTR Arraial do Cabo,9443.wtrarraialdocabo32k.2018,WTR Arraial do Cabo 2018 - 32k,Brazil,14,April,2018,20K,32,630
+30013,WTR Serra do Mar,10677.wtrserradomar52k.2018,WTR Serra do Mar 2018 - 52k,Brazil,24,November,2018,50K,52.7,2640
+30015,WTR Serra do Mar,12399.wtrserradomar26k.2018,WTR Serra do Mar 2018 - 26k,Brazil,24,November,2018,20K,26,1630
+30887,DE ELITE TRAIL FESTIVAL,10411.deelitetrailfestivalhardtraildeelite.2018,DE ELITE TRAIL FESTIVAL 2018 - Hard Trail De Elite,Brazil,4,August,2018,20K,30.5,1530
+30891,DE ELITE TRAIL FESTIVAL,12801.deelitetrailfestivalultratrail54k.2018,DE ELITE TRAIL FESTIVAL 2018 - Ultra Trail 54k,Brazil,4,August,2018,50K,54.7,2440
+30951,Extremo Sul - World's Largest Beach,3447.extremosul-world-slargestbeachworld-slargestbeach.2018,Extremo Sul - World's Largest Beach 2018 - World's Largest Beach,Brazil,15,November,2018,100M,227.1,3300
+31863,KTR Campos do Jord�o,8101.ktrcamposdojordao42k.2018,KTR Campos do Jord�o 2018 - 42K,Brazil,5,May,2018,50K,40.8,3060
+31865,KTR Campos do Jord�o,8043.ktrcamposdojordao21k.2018,KTR Campos do Jord�o 2018 - 21K,Brazil,5,May,2018,20K,21.2,1450
+31867,KTR ILHABELA 42K,30666.ktrilhabela42k20k.2018,KTR ILHABELA 42K 2018 - 20K,Brazil,10,November,2018,20K,18.3,1590
+31869,KTR ILHABELA 42K,30665.ktrilhabela42k35k.2018,KTR ILHABELA 42K 2018 - 35K,Brazil,10,November,2018,50K,34.6,2220
+31871,KTR ILHABELA 42K,10371.ktrilhabela42k80kultrailhabela.2018,KTR ILHABELA 42K 2018 - 80k Ultra Ilhabela,Brazil,10,November,2018,100K,78.6,3390
+31873,KTR Serra Fina,8045.ktrserrafina50kserrafina.2018,KTR Serra Fina 2018 - 50k Serra Fina,Brazil,23,June,2018,50K,48.6,2900
+31875,KTR Serra Fina,8099.ktrserrafina24k.2018,KTR Serra Fina 2018 - 24k,Brazil,23,June,2018,20K,23.9,1500
+31925,Desafio Cerro Branco,13277.desafiocerrobranco50km.2018,Desafio Cerro Branco 2018 - 50km,Brazil,5,May,2018,50K,49.6,2650
+32041,Amazing Runs Garopaba,9973.amazingrunsgaropaba45km.2018,Amazing Runs Garopaba 2018 - 45 Km,Brazil,19,May,2018,50K,45.4,1810
+32043,Amazing Runs Garopaba,13353.amazingrunsgaropaba45km-10-5km.2018,"Amazing Runs Garopaba 2018 - 45 Km + 10,5 Km",Brazil,19,May,2018,50K,55.7,2240
+32085,Indomit Pedra do Ba�,13365.indomitpedradobau35km.2018,Indomit Pedra do Ba� 2018 - 35 Km,Brazil,7,April,2018,50K,35.5,2010
+32231,Amazing Runs,9763.amazingrunsserradacanastra65k.2018,Amazing Runs 2018 - Serra da Canastra 65k,Brazil,3,November,2018,50K,64.7,2030
+32235,Amazing Runs,9923.amazingrunsserradacanastra38km.2018,Amazing Runs 2018 - Serra da Canastra 38 km,Brazil,3,November,2018,20K,37.5,670
+32237,Amazing Runs,9925.amazingrunsserradacanastra26km.2018,Amazing Runs 2018 - Serra da Canastra 26km,Brazil,3,November,2018,20K,27.5,1370
+32397,Indomit Pedra do Ba�,3520.indomitpedradobau50km.2018,Indomit Pedra do Ba� 2018 - 50 km,Brazil,7,April,2018,50K,50.6,3040
+33239,INSANE,13935.insaneinsane69k.2018,INSANE 2018 - INSANE 69k,Brazil,9,June,2018,50K,69,2760
+33409,Trilhas Serra dos Vales - III Etapa CGCTM,14035.trilhasserradosvales-iiietapacgctm27ktrilhasserradosvales.2018,Trilhas Serra dos Vales - III Etapa CGCTM 2018 - 27K Trilhas Serra dos Vales,Brazil,26,May,2018,20K,26.9,1310
+34249,Ultramaratona dos Perdidos Skymarathon,2419.ultramaratonadosperdidosskymarathon45k.2018,Ultramaratona dos Perdidos Skymarathon 2018 - 45K,Brazil,14,July,2018,50K,45.8,2980
+34251,Ultramaratona dos Perdidos Skymarathon,8675.ultramaratonadosperdidosskymarathon25k.2018,Ultramaratona dos Perdidos Skymarathon 2018 - 25K,Brazil,14,July,2018,20K,25.5,1650
+34253,Ultramaratona dos Perdidos Skymarathon,8677.ultramaratonadosperdidosskymarathon100k.2018,Ultramaratona dos Perdidos Skymarathon 2018 - 100K,Brazil,13,July,2018,100K,101.2,5580
+34255,Ara�atuba Half Marathon SkyRace,8681.aracatubahalfmarathonskyrace21k.2018,Ara�atuba Half Marathon SkyRace 2018 - 21K,Brazil,16,February,2018,20K,22.5,1490
+34257,Ara�atuba Half Marathon SkyRace,8683.aracatubahalfmarathonskyrace13k.2018,Ara�atuba Half Marathon SkyRace 2018 - 13K,Brazil,16,February,2018,20K,12.8,850
+34407,Trilhas de Nova Roma do Sul - V Etapa CGCTM,14491.trilhasdenovaromadosul-vetapacgctm29ktrilhasdenovaromadosul.2018,Trilhas de Nova Roma do Sul - V Etapa CGCTM 2018 - 29K Trilhas de Nova Roma do Sul,Brazil,15,September,2018,20K,29.2,1570
+34573,ForrestRUN: Desafio Tormenta,14577.forrestrun-desafiotormenta50k-ultra.2018,ForrestRUN: Desafio Tormenta 2018 - 50K - ULTRA,Brazil,28,July,2018,50K,51.6,2140
+35099,Trilhas de Serra Grande - VI Etapa CGCTM,14849.trilhasdeserragrande-vietapacgctm33ktrilhasdeserragrande.2018,Trilhas de Serra Grande - VI Etapa CGCTM 2018 - 33K Trilhas de Serra Grande,Brazil,20,October,2018,20K,33.4,1440
+35167,ForrestRUN: Desafio Tormenta,14883.forrestrun-desafiotormenta30k-longo.2018,ForrestRUN: Desafio Tormenta 2018 - 30K - LONGO,Brazil,28,July,2018,20K,31,1460
+35169,ForrestRUN: Desafio Tormenta,14885.forrestrun-desafiotormenta14k-medio.2018,ForrestRUN: Desafio Tormenta 2018 - 14K - M�DIO,Brazil,28,July,2018,20K,14.9,620
+35171,ForrestRUN: Desafio Tormenta,14887.forrestrun-desafiotormenta7k-curto.2018,ForrestRUN: Desafio Tormenta 2018 - 7K - CURTO,Brazil,28,July,2018,,,
+35243,INDOMIT Bombinhas 10 anos,7979.indomitbombinhas10anos42km.2018,INDOMIT Bombinhas 10 anos 2018 - 42 km,Brazil,4,August,2018,50K,42.9,1460
+35533,AMAZONIA ENDURANCE ULTRA TRAIL - BARCARENA,15077.amazoniaenduranceultratrail-barcarenaaeuthalf.2018,AMAZONIA ENDURANCE ULTRA TRAIL - BARCARENA 2018 - AEUT HALF,Brazil,5,August,2018,20K,32.3,590
+35535,AMAZONIA ENDURANCE ULTRA TRAIL - BARCARENA,15079.amazoniaenduranceultratrail-barcarenaaeutultra.2018,AMAZONIA ENDURANCE ULTRA TRAIL - BARCARENA 2018 - AEUT ULTRA,Brazil,5,August,2018,50K,56.5,1050
+35745,Naventura Garopaba,15147.naventuragaropaba30km.2018,Naventura Garopaba 2018 - 30km,Brazil,6,October,2018,20K,29.5,890
+35747,Naventura Garopaba,15149.naventuragaropaba52km.2018,Naventura Garopaba 2018 - 52km,Brazil,6,October,2018,50K,51.7,1930
+35985,Cascatas & Montanhas - VII Etapa CGCTM,15285.cascatas-montanhas-viietapacgctm28kcascatas-montanhas.2018,Cascatas & Montanhas - VII Etapa CGCTM 2018 - 28K Cascatas & Montanhas,Brazil,24,November,2018,20K,28.5,920
+36125,Brazil 135+ Ultramarathon,7577.brazil135-ultramarathonmaratona3.2019,Brazil 135+ Ultramarathon 2019 - Maratona 3,Brazil,17,January,2019,100K,127.1,3460
+36127,Brazil 135+ Ultramarathon,7377.brazil135-ultramarathon135miles.2019,Brazil 135+ Ultramarathon 2019 - 135 Miles,Brazil,17,January,2019,100M,209.3,6010
+36367,Indomit costa esmeralda ultra-trail�,2963.indomitcostaesmeraldaultra-trail-100km.2018,Indomit costa esmeralda ultra-trail� 2018 - 100 KM,Brazil,26,October,2018,100K,102,3490
+36369,Indomit costa esmeralda ultra-trail�,3441.indomitcostaesmeraldaultra-trail-80km.2018,Indomit costa esmeralda ultra-trail� 2018 - 80 Km,Brazil,26,October,2018,100K,82.2,2480
+36371,Indomit costa esmeralda ultra-trail�,5949.indomitcostaesmeraldaultra-trail-50km.2018,Indomit costa esmeralda ultra-trail� 2018 - 50 KM,Brazil,27,October,2018,50K,50.7,1600
+36373,Indomit costa esmeralda ultra-trail�,10031.indomitcostaesmeraldaultra-trail-100milles.2018,Indomit costa esmeralda ultra-trail� 2018 - 100 MILLES,Brazil,26,October,2018,100M,160.3,4730
+36417,Desafio das Serras,9327.desafiodasserraspercursomedio40km.2018,Desafio das Serras 2018 - Percurso M�dio 40km,Brazil,22,September,2018,20K,38.6,1910
+36419,Desafio das Serras,9325.desafiodasserraspercursolongo90km.2018,Desafio das Serras 2018 - Percurso Longo 90km,Brazil,22,September,2018,50K,89.1,3030
+36709,3� STAGE INSANE,31078.3-stageinsaneinsane25k.2019,3� STAGE INSANE 2019 -  INSANE 25K,Brazil,16,February,2019,20K,25.9,1220
+36711,3� STAGE INSANE,31079.3-stageinsaneinsane45k.2019,3� STAGE INSANE 2019 - INSANE 45K,Brazil,16,February,2019,50K,45,2130
+36713,	3rd stage insane - Morungaba,31076.-3rdstageinsane-morungabainsane30k.2019,	3rd stage insane - Morungaba 2019 - INSANE 30K,Brazil,4,May,2019,20K,29.1,1460
+36715,2nd STAGE INSANE - Po�os de Caldas,15559.2ndstageinsane-pocosdecaldasinsane50k.2019,2nd STAGE INSANE - Po�os de Caldas 2019 - INSANE 50K,Brazil,4,May,2019,50K,46.7,2230
+36717,	3rd stage insane - Morungaba,31074.-3rdstageinsane-morungabainsane10k.2019,	3rd stage insane - Morungaba 2019 - INSANE 10K,Brazil,24,August,2019,,,
+36719,	3rd stage insane - Morungaba,31075.-3rdstageinsane-morungabainsane22k.2019,	3rd stage insane - Morungaba 2019 - INSANE 22K,Brazil,24,August,2019,20K,21,870
+37115,4Th Stage Insane - Pico do Gavi�o,15727.4thstageinsane-picodogaviaoinsane100k.2019,4Th Stage Insane - Pico do Gavi�o 2019 - INSANE 100K,Brazil,23,November,2019,100K,98.1,2900
+37117,4Th Stage Insane - Pico do Gavi�o,15729.4thstageinsane-picodogaviaoinsane25k.2019,4Th Stage Insane - Pico do Gavi�o 2019 - INSANE 25K,Brazil,23,November,2019,20K,27.4,1220
+37119,4Th Stage Insane - Pico do Gavi�o,15731.4thstageinsane-picodogaviaoinsane58k.2019,4Th Stage Insane - Pico do Gavi�o 2019 - INSANE 58K,Brazil,23,November,2019,50K,58.1,2120
+37527,Desafio Raiz Tapera,15913.desafioraiztapera10kmsolo.2018,Desafio Raiz Tapera 2018 - 10km Solo,Brazil,1,December,2018,,,
+37529,Desafio Raiz Tapera,15915.desafioraiztapera20kmteam.2018,Desafio Raiz Tapera 2018 - 20km team,Brazil,1,December,2018,20K,21.1,1300
+37531,Desafio Raiz Tapera,30910.desafioraiztapera20kmsolo.2018,Desafio Raiz Tapera 2018 - 20km Solo,Brazil,1,December,2018,20K,21.1,1300
+37741,DESAFIO CORJA PEDRA BRANCA,11183.desafiocorjapedrabrancacruzadadoceu-32km.2019,DESAFIO CORJA PEDRA BRANCA 2019 - CRUZADA DO C�U - 32KM,Brazil,5,May,2019,50K,33.1,2260
+38095,300 - O Desafio,16049.300-odesafiodesafio150.2018,300 - O Desafio 2018 - Desafio 150 ,Brazil,22,March,2018,100K,143.4,2570
+38153,ForrestRUN: Desafio Serrinha,11101.forrestrun-desafioserrinha18k-medio.2019,ForrestRUN: Desafio Serrinha 2019 - 18K - M�DIO,Brazil,10,February,2019,20K,18,530
+38155,ForrestRUN: Desafio Serrinha,11099.forrestrun-desafioserrinha30k-longo.2019,ForrestRUN: Desafio Serrinha 2019 - 30K - LONGO,Brazil,10,February,2019,20K,30.1,960
+38315,ForrestRUN: Desafio Serrinha,16141.forrestrun-desafioserrinha7-5k-curto.2019,ForrestRUN: Desafio Serrinha 2019 - 7.5K - CURTO,Brazil,10,February,2019,,,
+38607,Ultra Desafio - Marmelopolis,10583.ultradesafio-marmelopolisud55km.2018,Ultra Desafio - Marmelopolis 2018 - UD 55 km,Brazil,1,December,2018,50K,54.5,1960
+38609,Ultra Desafio - Marmelopolis,10585.ultradesafio-marmelopolisud85km.2018,Ultra Desafio - Marmelopolis 2018 - Ud 85 km,Brazil,1,December,2018,100K,84.1,2910
+38611,Trilhas de Maquin�  - I Etapa,16235.trilhasdemaquine-ietapa20ktrilhasdemaquine.2019,Trilhas de Maquin�  - I Etapa 2019 - 20K Trilhas de Maquin�,Brazil,16,February,2019,20K,19.9,800
+38673,Trilhas do Salto Ventoso  - II Etapa,11781.trilhasdosaltoventoso-iietapa24ktrilhasdosaltoventoso.2019,Trilhas do Salto Ventoso  - II Etapa 2019 - 24K Trilhas do Salto Ventoso,Brazil,16,March,2019,20K,23.6,1150
+38687,Trilhas da Serra Grande - IV Etapa,16269.trilhasdaserragrande-ivetapa22ktrilhasdeserragrande.2019,Trilhas da Serra Grande - IV Etapa 2019 - 22K Trilhas de Serra Grande,Brazil,29,June,2019,20K,21.7,1010
+38689,Trilhas ArcoVerde - V Etapa,16271.trilhasarcoverde-vetapa28ktrilhasarcoverde.2019,Trilhas ArcoVerde - V Etapa 2019 - 28K Trilhas ArcoVerde,Brazil,10,August,2019,20K,28.4,1020
+38691,Trilhas de Nova Roma do Sul - VI Etapa,14491.trilhasdenovaromadosul-vietapa22ktrilhasnovaromadosul.2019,Trilhas de Nova Roma do Sul - VI Etapa 2019 - 22K Trilhas Nova Roma do Sul,Brazil,7,September,2019,20K,22,1360
+38697,Trilhas do Morro Ga�cho - III Etapa,16275.trilhasdomorrogaucho-iiietapa25ktrilhasdomorrogaucho.2019,Trilhas do Morro Ga�cho - III Etapa 2019 - 25K Trilhas do Morro Ga�cho,Brazil,4,May,2019,20K,25,1460
+38699,Trilhas do Morro Ga�cho - III Etapa,16277.trilhasdomorrogaucho-iiietapa54kbrutosdogaucho.2019,Trilhas do Morro Ga�cho - III Etapa 2019 - 54K Brutos do Ga�cho,Brazil,4,May,2019,50K,54.8,3100
+38701,Trilhas Serra dos Vales - VIII Etapa,14035.trilhasserradosvales-viiietapa23ktrilhasserradosvales.2019,Trilhas Serra dos Vales - VIII Etapa 2019 - 23K Trilhas Serra dos Vales,Brazil,9,November,2019,20K,23.2,1130
+40117,Desafio Cerro Branco,13277.desafiocerrobrancoultra55k.2019,Desafio Cerro Branco 2019 - Ultra 55k,Brazil,13,April,2019,50K,48.1,2410
+40119,Desafio Cerro Branco,16799.desafiocerrobrancolongo23k.2019,Desafio Cerro Branco 2019 - Longo 23k,Brazil,13,April,2019,20K,23.5,1310
+40289,Ultra Desafio Passa Quatro - MG,4485.ultradesafiopassaquatro-mgud80km.2019,Ultra Desafio Passa Quatro - MG 2019 - UD 80 Km,Brazil,16,February,2019,100K,80.6,2360
+40291,Ultra Desafio Passa Quatro - MG,4250.ultradesafiopassaquatro-mgud120km.2019,Ultra Desafio Passa Quatro - MG 2019 - UD 120 Km,Brazil,16,February,2019,100K,119.8,2810
+40293,Ultra Desafio Passa Quatro - MG,16329.ultradesafiopassaquatro-mgud30km.2019,Ultra Desafio Passa Quatro - MG 2019 - UD 30 Km,Brazil,16,February,2019,20K,29.1,1030
+40295,Ultra Desafio Passa Quatro - MG,16331.ultradesafiopassaquatro-mgud15km.2019,Ultra Desafio Passa Quatro - MG 2019 - UD 15 Km,Brazil,16,February,2019,,,
+40297,300 - O Desafio,10575.300-odesafio300-odesafio.2019,300 - O Desafio 2019,Brazil,21,March,2019,100M,299.8,5800
+40299,300 - O Desafio,16049.300-odesafiodesafio150.2019,300 - O Desafio 2019 - Desafio 150 ,Brazil,21,March,2019,100M,147.7,3140
+40301,Ultramaratona dos Anjos Internacional,1735.ultramaratonadosanjosinternacional235kmx-hard.2019,Ultramaratona dos Anjos Internacional 2019 - 235 Km X-Hard,Brazil,12,July,2019,100M,233.5,5860
+40303,Ultramaratona dos Anjos Internacional,3814.ultramaratonadosanjosinternacional65kmeasy.2019,Ultramaratona dos Anjos Internacional 2019 - 65 Km Easy,Brazil,12,July,2019,50K,64.5,1850
+40305,Ultramaratona dos Anjos Internacional,3815.ultramaratonadosanjosinternacional95kmmedium.2019,Ultramaratona dos Anjos Internacional 2019 - 95 Km Medium,Brazil,12,July,2019,100K,94.7,2270
+40307,Ultramaratona dos Anjos Internacional,3816.ultramaratonadosanjosinternacional135kmhard.2019,Ultramaratona dos Anjos Internacional 2019 - 135 Km Hard,Brazil,12,July,2019,100K,132.6,3720
+40309,Ultramaratona dos Anjos Internacional,16323.ultramaratonadosanjosinternacional25kmfast.2019,Ultramaratona dos Anjos Internacional 2019 - 25 Km Fast,Brazil,12,July,2019,20K,23,600
+40311,Ultra Desafio Itanhandu - MG,16145.ultradesafioitanhandu-mgud35km.2019,Ultra Desafio Itanhandu - MG 2019 - UD 35 km,Brazil,19,October,2019,20K,34.9,820
+40313,Ultra Desafio Itanhandu - MG,16099.ultradesafioitanhandu-mgud50km.2019,Ultra Desafio Itanhandu - MG 2019 - UD 50 km,Brazil,19,October,2019,50K,49,1090
+40315,Ultra Desafio Itanhandu - MG,16101.ultradesafioitanhandu-mgud75km.2019,Ultra Desafio Itanhandu - MG 2019 - UD 75 km,Brazil,19,October,2019,50K,75.2,1840
+40317,Ultra Desafio Itanhandu - MG,16321.ultradesafioitanhandu-mgud15km.2019,Ultra Desafio Itanhandu - MG 2019 - Ud 15 Km,Brazil,19,October,2019,,,
+40319,Ultra Desafio Morungaba - SP,3818.ultradesafiomorungaba-spud75km.2019,Ultra Desafio Morungaba - SP 2019 - UD 75 Km,Brazil,1,June,2019,50K,75,2130
+40321,Ultra Desafio Morungaba - SP,4523.ultradesafiomorungaba-spud50km.2019,Ultra Desafio Morungaba - SP 2019 - UD 50 Km,Brazil,1,June,2019,50K,50,1450
+40323,Ultra Desafio Morungaba - SP,16325.ultradesafiomorungaba-spud25km.2019,Ultra Desafio Morungaba - SP 2019 - UD 25 Km,Brazil,1,June,2019,20K,25,780
+40325,Ultra Desafio Morungaba - SP,16327.ultradesafiomorungaba-spud11km.2019,Ultra Desafio Morungaba - SP 2019 - UD 11 Km,Brazil,1,June,2019,,,
+40561,Run Brasil Ride,16959.runbrasilrideultra70-32krunbraslride.2018,Run Brasil Ride 2018 - Ultra 70 - 32k Run Brasl Ride,Brazil,8,December,2018,20K,31.4,1080
+40563,Run Brasil Ride,16961.runbrasilrideultra70k.2018,Run Brasil Ride 2018 - Ultra 70k,Brazil,8,December,2018,50K,69.5,2110
+40853,Caminhos de Rosa - ULtramarathon,10651.caminhosderosa-ultramarathon160km-100miles.2019,Caminhos de Rosa - ULtramarathon 2019 - 160 km - 100 miles,Brazil,7,September,2019,100K,144.8,1890
+40855,Caminhos de Rosa - ULtramarathon,10653.caminhosderosa-ultramarathon100km.2019,Caminhos de Rosa - ULtramarathon 2019 - 100 km,Brazil,6,September,2019,100K,97.2,1000
+40857,Caminhos de Rosa - ULtramarathon,10655.caminhosderosa-ultramarathon57km.2019,Caminhos de Rosa - ULtramarathon 2019 - 57 km,Brazil,7,September,2019,50K,57.1,780
+40861,Caminhos de Rosa - ULtramarathon,9135.caminhosderosa-ultramarathon250km.2019,Caminhos de Rosa - ULtramarathon 2019 - 250 km,Brazil,6,September,2019,100M,242.1,2890
+41929,INDOMIT Bombinhas,14913.indomitbombinhas25k.2019,INDOMIT Bombinhas 2019 - 25k,Brazil,10,August,2019,20K,24.9,850
+41931,INDOMIT Bombinhas,7979.indomitbombinhas42km.2019,INDOMIT Bombinhas 2019 - 42 km,Brazil,10,August,2019,50K,43.4,1490
+42373,Insanity Mountain - Mestre �lvaro,11005.insanitymountain-mestrealvaro30km.2019,Insanity Mountain - Mestre �lvaro 2019 - 30km,Brazil,20,April,2019,50K,32.4,2600
+42379,Insanity Mountain - Buenos Aires,11161.insanitymountain-buenosaires53km.2019,Insanity Mountain - Buenos Aires 2019 - 53 Km,Brazil,9,November,2019,50K,56.1,2770
+42701,Faccat Trail Run,12031.faccattrailrun56k.2019,Faccat Trail Run 2019 - 56K,Brazil,27,July,2019,50K,57.1,1980
+43647,Extremo Sul Ultramarathon,3447.extremosulultramarathonworld-slargestbeach.2019,Extremo Sul Ultramarathon 2019 - World's Largest Beach,Brazil,14,November,2019,100M,220.3,3070
+43943,TUTAN Transmantiqueira UT Agulhas Negras,12093.tutantransmantiqueirautagulhasnegrastutan42k.2019,TUTAN Transmantiqueira UT Agulhas Negras 2019 - TUTAN 42k,Brazil,11,December,2019,50K,42,1636
+43945,TUTAN Transmantiqueira UT Agulhas Negras,12105.tutantransmantiqueirautagulhasnegrastutan75k.2019,TUTAN Transmantiqueira UT Agulhas Negras 2019 - TUTAN 75k,Brazil,20,April,2019,100K,79.8,3420
+43947,TUTAN Transmantiqueira UT Agulhas Negras,12107.tutantransmantiqueirautagulhasnegrastutan100k.2019,TUTAN Transmantiqueira UT Agulhas Negras 2019 - TUTAN 100k ,Brazil,20,April,2019,100K,100.6,4060
+44139,Amazing Runs Garopaba,9973.amazingrunsgaropaba50km.2019,Amazing Runs Garopaba 2019 - 50 Km,Brazil,25,May,2019,50K,51,1980
+44143,Amazing Runs Garopaba,13357.amazingrunsgaropabaamazingrunsgaropaba-27km.2019,Amazing Runs Garopaba 2019 - Amazing Runs Garopaba - 27 Km,Brazil,18,May,2019,20K,27,800
+44145,Amazing Runs Garopaba,13361.amazingrunsgaropabaargaropaba27km-10-5km.2019,"Amazing Runs Garopaba 2019 - AR Garopaba 27km + 10,5km",Brazil,19,May,2019,20K,36.8,1120
+44457,KTR Ilhabela,30666.ktrilhabela20k.2019,KTR Ilhabela 2019 - 20K,Brazil,9,November,2019,20K,21.4,1440
+44459,KTR Ilhabela,30665.ktrilhabela35k.2019,KTR Ilhabela 2019 - 35K,Brazil,9,November,2019,50K,34.6,2140
+44461,KTR Ilhabela,10371.ktrilhabela80kultrailhabela.2019,KTR Ilhabela 2019 - 80k Ultra Ilhabela,Brazil,9,November,2019,100K,78.3,3620
+44463,KTR Serra Fina,8045.ktrserrafina50kserrafina.2019,KTR Serra Fina 2019 - 50k Serra Fina,Brazil,29,June,2019,50K,48.6,2870
+44465,KTR Serra Fina,8099.ktrserrafina24k.2019,KTR Serra Fina 2019 - 24k,Brazil,29,June,2019,20K,24,1500
+44467,KTR Campos do Jord�o,8101.ktrcamposdojordao42k.2019,KTR Campos do Jord�o 2019 - 42K,Brazil,27,April,2019,50K,41.2,2990
+44469,KTR Campos do Jord�o,8043.ktrcamposdojordao21k.2019,KTR Campos do Jord�o 2019 - 21K,Brazil,27,April,2019,20K,21.4,1440
+44859,Naventura Ouro Fino,11963.naventuraourofino30km.2019,Naventura Ouro Fino 2019 - 30km,Brazil,16,February,2019,20K,32.9,1250
+44861,Naventura Ouro Fino,13011.naventuraourofino50km.2019,Naventura Ouro Fino 2019 - 50km,Brazil,16,February,2019,50K,50.1,1880
+45203,Trilhas Sul Trail Run - VII Etapa,18545.trilhassultrailrun-viietapa21ktrilhassultrailrun.2019,Trilhas Sul Trail Run - VII Etapa 2019 - 21K Trilhas Sul Trail Run,Brazil,12,October,2019,20K,20.8,930
+45227,Ultramaratona dos Perdidos Skymarathon,2419.ultramaratonadosperdidosskymarathon45k.2019,Ultramaratona dos Perdidos Skymarathon 2019 - 45K,Brazil,13,July,2019,50K,45,2900
+45229,Ultramaratona dos Perdidos Skymarathon,8675.ultramaratonadosperdidosskymarathon25k.2019,Ultramaratona dos Perdidos Skymarathon 2019 - 25K,Brazil,13,July,2019,20K,24.5,1570
+45233,Ara�atuba Half Marathon SkyRace,8681.aracatubahalfmarathonskyrace21k.2019,Ara�atuba Half Marathon SkyRace 2019 - 21K,Brazil,16,February,2019,20K,22.6,1500
+45235,Ara�atuba Half Marathon SkyRace,8683.aracatubahalfmarathonskyrace13k.2019,Ara�atuba Half Marathon SkyRace 2019 - 13K,Brazil,16,February,2019,20K,12.9,870
+45237,Ultramaratona dos Perdidos Skymarathon,18553.ultramaratonadosperdidosskymarathon80k.2019,Ultramaratona dos Perdidos Skymarathon 2019 - 80K,Brazil,13,July,2019,100K,80.1,4000
+46031,La Mision Brasil,18913.lamisionbrasillamisionbrasil15k.2019,La Mision Brasil 2019 - La Mision Brasil 15K,Brazil,17,August,2019,20K,15,1030
+46033,La Mision Brasil,11263.lamisionbrasillamisionbrasil35k.2019,La Mision Brasil 2019 - La Mision Brasil 35K,Brazil,17,August,2019,50K,37.1,2380
+46035,La Mision Brasil,11265.lamisionbrasillamisionbrasil50k.2019,La Mision Brasil 2019 - La Mision Brasil 50K,Brazil,17,August,2019,50K,51.9,3520
+46037,La Mision Brasil,11267.lamisionbrasillamisionbrasil80k.2019,La Mision Brasil 2019 - La Mision Brasil 80K,Brazil,17,August,2019,100K,79.5,4880
+46133,Indomit Pedra do Ba�,3520.indomitpedradobau50km.2019,Indomit Pedra do Ba� 2019 - 50 km,Brazil,30,March,2019,50K,50.5,3030
+46135,Indomit Pedra do Ba�,13365.indomitpedradobau35km.2019,Indomit Pedra do Ba� 2019 - 35 Km,Brazil,30,March,2019,50K,35.6,2170
+46293,Desafio Raiz Tapera,15913.desafioraiztaperadrtmedio.2019,Desafio Raiz Tapera 2019 - D R T M�dio,Brazil,1,June,2019,,,
+46297,Desafio Raiz Tapera,30910.desafioraiztaperadrtlongo.2019,Desafio Raiz Tapera 2019 - D R T Longo,Brazil,1,June,2019,20K,21.1,1300
+46299,Desafio Raiz Tapera,30912.desafioraiztaperadrtcurto.2019,Desafio Raiz Tapera 2019 - D R T Curto,Brazil,1,June,2019,,,
+46417,Desafio Raiz Morro S�o Pedro,19089.desafioraizmorrosaopedromsp-curto.2019,Desafio Raiz Morro S�o Pedro 2019 - M S P - CURTO,Brazil,20,April,2019,,,
+46439,Desafio Raiz Morro S�o Pedro,19101.desafioraizmorrosaopedrodesafioraizmsp-longo.2019,Desafio Raiz Morro S�o Pedro 2019 - Desafio Raiz M S P - LONGO,Brazil,20,April,2019,20K,26.1,990
+46441,Desafio Raiz Morro S�o Pedro,19103.desafioraizmorrosaopedrodesafioraizmsp-medio.2019,Desafio Raiz Morro S�o Pedro 2019 - Desafio Raiz M S P - M�DIO,Brazil,20,April,2019,,,
+46635,Amazing Runs Serra da Canastra,19215.amazingrunsserradacanastraar-serradacanastra18km.2019,Amazing Runs Serra da Canastra 2019 - AR -  Serra da Canastra 18 KM,Brazil,19,October,2019,20K,18.5,770
+46637,Amazing Runs Serra da Canastra,19217.amazingrunsserradacanastraar-serradacanastra43km.2019,Amazing Runs Serra da Canastra 2019 - AR -  Serra da Canastra 43 KM,Brazil,19,October,2019,50K,43.4,2090
+46639,Amazing Runs Serra da Canastra,19219.amazingrunsserradacanastraar-serradacanastra62km.2019,Amazing Runs Serra da Canastra 2019 - AR -  Serra da Canastra 62 KM,Brazil,19,October,2019,50K,62.3,2830
+46641,Amazing Runs Serra da Canastra,19221.amazingrunsserradacanastraar-serradacanastra7km.2019,Amazing Runs Serra da Canastra 2019 - AR -  Serra da Canastra 7 KM,Brazil,19,October,2019,,,
+47239,ForrestRUN - Desafio Tormenta 2.0,19445.forrestrun-desafiotormenta2-018k-medio.2019,ForrestRUN - Desafio Tormenta 2.0 2019 - 18K - M�DIO,Brazil,27,July,2019,20K,18.1,880
+47241,ForrestRUN - Desafio Tormenta 2.0,14883.forrestrun-desafiotormenta2-030k-longo.2019,ForrestRUN - Desafio Tormenta 2.0 2019 - 30K - LONGO,Brazil,27,July,2019,20K,30.8,1510
+47243,ForrestRUN - Desafio Tormenta 2.0,14577.forrestrun-desafiotormenta2-050k-ultra.2019,ForrestRUN - Desafio Tormenta 2.0 2019 - 50K - ULTRA,Brazil,27,July,2019,50K,51.7,2540
+47245,ForrestRUN - Desafio Tormenta 2.0,19447.forrestrun-desafiotormenta2-08-5k-curto.2019,ForrestRUN - Desafio Tormenta 2.0 2019 - 8.5K - CURTO,Brazil,27,July,2019,,,
+47509,Naventura Garopaba,15147.naventuragaropaba35km.2019,Naventura Garopaba 2019 - 35km,Brazil,3,August,2019,20K,35.7,1260
+47513,Naventura Garopaba,15149.naventuragaropaba55km.2019,Naventura Garopaba 2019 - 55km,Brazil,3,August,2019,50K,55,2260
+47655,AUDAX TRAIL TOUR,19689.audaxtrailtouratt-trajetolongo.2019,AUDAX TRAIL TOUR 2019 - ATT - TRAJETO LONGO,Brazil,18,May,2019,20K,30,1030
+48331,3rd stage insane - Morungaba,19947.3rdstageinsane-morungabainsane51k.2019,3rd stage insane - Morungaba 2019 - INSANE 51K,Brazil,24,August,2019,50K,50.9,1790
+49145,INDOMIT Bombinhas,20295.indomitbombinhas65km.2019,INDOMIT Bombinhas 2019 - 65 Km,Brazil,10,August,2019,50K,65.3,2120
+49635,ATT S�O FRANCISCO DE PAULA,20525.attsaofranciscodepaula30km.2019,ATT S�O FRANCISCO DE PAULA 2019 - 30km,Brazil,10,July,2019,20K,30.3,1020
+49763,Desafio das Serras - Intervales,9327.desafiodasserras-intervalespercurso40km.2019,Desafio das Serras - Intervales 2019 - Percurso 40km,Brazil,7,September,2019,20K,41.6,1310
+49765,Desafio das Serras - Intervales,9325.desafiodasserras-intervalespercurso80km.2019,Desafio das Serras - Intervales 2019 - Percurso 80km,Brazil,7,September,2019,50K,80.9,2740
+50233,EVOLUTION,35084.evolutionmedium.2019,EVOLUTION 2019 - Medium,Brazil,5,October,2019,20K,18.9,1490
+50235,EVOLUTION,35086.evolutionultraskull.2019,EVOLUTION 2019 - Ultra Skull,Brazil,5,October,2019,50K,53.9,2830
+50345,Run Brasil Ride,16959.runbrasilrideultra70-32krunbraslride.2019,Run Brasil Ride 2019 - Ultra 70 - 32k Run Brasl Ride,Brazil,7,December,2019,20K,32.6,890
+50347,Run Brasil Ride,16961.runbrasilrideultra70k.2019,Run Brasil Ride 2019 - Ultra 70k,Brazil,7,December,2019,50K,69.8,2530
+50519,Ultramaratona dos Anjos Internacional,20979.ultramaratonadosanjosinternacional235kmx-harddouble.2019,Ultramaratona dos Anjos Internacional 2019 - 235 Km X-Hard Double,Brazil,9,July,2019,100M,468.6,11150
+51015,Desafio Raiz Vale dos Vinhedos,21137.desafioraizvaledosvinhedosdrvaledosvinhedoscurto.2019,Desafio Raiz Vale dos Vinhedos 2019 - D R Vale dos Vinhedos Curto,Brazil,30,November,2019,,,
+51017,Desafio Raiz Vale dos Vinhedos,21139.desafioraizvaledosvinhedosdrvaledosvinhedoslongo.2019,Desafio Raiz Vale dos Vinhedos 2019 - D R Vale dos Vinhedos Longo,Brazil,30,November,2019,20K,21.3,830
+51019,Desafio Raiz Vale dos Vinhedos,21141.desafioraizvaledosvinhedosdrvaledosvinhedosmedio.2019,Desafio Raiz Vale dos Vinhedos 2019 - D R Vale dos Vinhedos M�dio,Brazil,30,November,2019,,,
+51175,ATT NOVA PETR�POLIS,21235.attnovapetropolis30km.2019,ATT NOVA PETR�POLIS 2019 - 30 km,Brazil,14,September,2019,20K,30,1370
+51371,WTR Serra do Mar,12399.wtrserradomar26k.2019,WTR Serra do Mar 2019 - 26k,Brazil,23,November,2019,20K,28.3,1820
+51373,WTR Serra do Mar,10677.wtrserradomar52k.2019,WTR Serra do Mar 2019 - 52k,Brazil,23,November,2019,50K,51.2,2560
+51469,ULTRAMARATONA CAMINHOS DE CARAVAGGIO,21377.ultramaratonacaminhosdecaravaggioumcc217kmsolo.2020,ULTRAMARATONA CAMINHOS DE CARAVAGGIO 2020 - U M C C 217km SOLO,Brazil,1,January,2020,100M,217.6,5620
+51715,X-Treme Run Gramado,21503.x-tremerungramadox-tremerun-longa25k.2019,X-Treme Run Gramado 2019 - X-Treme Run - Longa 25k,Brazil,5,October,2019,20K,25.4,1020
+51719,X-Treme Run Gramado,21507.x-tremerungramadox-tremerun-ultra50k.2019,X-Treme Run Gramado 2019 - X-Treme Run - Ultra 50k,Brazil,5,October,2019,50K,50.8,2080
+52397,Desafio Serra dos Mascates,21741.desafioserradosmascates53k.2019,Desafio Serra dos Mascates 2019 - 53k,Brazil,5,October,2019,50K,53.4,2690
+52631,Desafio Serra dos Mascates,21881.desafioserradosmascates23k.2019,Desafio Serra dos Mascates 2019 - 23k,Brazil,5,October,2019,20K,26.7,1660
+53305,ATT OS�RIO,22147.attosorio30km.2019,ATT OS�RIO 2019 - 30 KM,Brazil,26,October,2019,20K,29.3,760
+54485,TRS Sapiranga,22623.trssapirangatrscurto.2019,TRS Sapiranga 2019 - TRS Curto,Brazil,3,November,2019,,,
+54487,TRS Sapiranga,22625.trssapirangatrslongo.2019,TRS Sapiranga 2019 - TRS Longo,Brazil,3,November,2019,20K,26.3,1190
+54489,TRS Sapiranga,22627.trssapirangatrsmedio.2019,TRS Sapiranga 2019 - TRS M�dio,Brazil,3,November,2019,,,
+55309,ForrestRUN: Desafio Serrinha,11101.forrestrun-desafioserrinha19k-medio.2020,ForrestRUN: Desafio Serrinha 2020 - 19K - M�DIO,Brazil,16,February,2020,20K,19.4,570
+55311,ForrestRUN: Desafio Serrinha,11099.forrestrun-desafioserrinha32k-longo.2020,ForrestRUN: Desafio Serrinha 2020 - 32K - LONGO,Brazil,16,February,2020,20K,32.5,970
+55313,ForrestRUN: Desafio Serrinha,11103.forrestrun-desafioserrinha9k-curtoii.2020,ForrestRUN: Desafio Serrinha 2020 - 9K - CURTO II,Brazil,16,February,2020,,,
+56907,2� STAGE INSANE,31075.2-stageinsaneinsane22k.2020,2� STAGE INSANE 2020 - INSANE 22K,Brazil,27,June,2020,20K,21.2,880
+56909,2� STAGE INSANE,31076.2-stageinsaneinsane35k.2020,2� STAGE INSANE 2020 - INSANE 35K,Brazil,27,June,2020,20K,34.3,1120
+56911,3� STAGE INSANE,31077.3-stageinsaneinsane10k.2020,3� STAGE INSANE 2020 - INSANE 10K,Brazil,26,September,2020,,,
+56913,3� STAGE INSANE,31078.3-stageinsaneinsane35k.2020,3� STAGE INSANE 2020 - INSANE 35K,Brazil,26,September,2020,20K,35,1330
+56915,3� STAGE INSANE,31079.3-stageinsaneultrainsane58k.2020,3� STAGE INSANE 2020 - ULTRAINSANE 58K,Brazil,26,September,2020,50K,57.8,1920
+57251,ATT S�O FRANCISCO DE PAULA,20525.attsaofranciscodepaulatrajetolongo.2020,ATT S�O FRANCISCO DE PAULA 2020 - Trajeto Longo,Brazil,4,July,2020,20K,29.8,1154
+57259,ATT NOVA PETR�POLIS,21235.attnovapetropolistrajetolongo.2020,ATT NOVA PETR�POLIS 2020 - Trajeto Longo,Brazil,12,September,2020,20K,30,1370
+57267,ATT NOVA PETR�POLIS,23523.attnovapetropolisultramaratona.2020,ATT NOVA PETR�POLIS 2020 - Ultramaratona,Brazil,12,September,2020,50K,47,1790
+57269,ATT RIOZINHO,22147.attriozinhotrajetolongo.2020,ATT RIOZINHO 2020 - Trajeto Longo,Brazil,28,March,2020,20K,34.2,1300
+57773,Indomit Pedra do Ba�,3520.indomitpedradobau50km.2020,Indomit Pedra do Ba� 2020 - 50 km,Brazil,14,March,2020,50K,48.4,2990
+57775,Indomit Pedra do Ba�,13365.indomitpedradobau35km.2020,Indomit Pedra do Ba� 2020 - 35 Km,Brazil,14,March,2020,50K,35.6,2180
+57777,Indomit Pedra do Ba�,18985.indomitpedradobau21km.2020,Indomit Pedra do Ba� 2020 - 21 Km,Brazil,14,March,2020,20K,20.7,1140
+57779,Indomit Pedra do Ba�,18987.indomitpedradobau12km.2020,Indomit Pedra do Ba� 2020 - 12 Km,Brazil,14,March,2020,,,
+57791,Indomit Pedra do Ba�,23641.indomitpedradobau80km.2020,Indomit Pedra do Ba� 2020 - 80 Km,Brazil,14,March,2020,100K,79.2,4230
+57883,Desafio Cerro Branco,13277.desafiocerrobrancocerroultratrail60k.2020,Desafio Cerro Branco 2020 - Cerro Ultra Trail 60k,Brazil,6,June,2020,50K,62.1,3320
+57885,Desafio Cerro Branco,16799.desafiocerrobrancohalfmarathon.2020,Desafio Cerro Branco 2020 - half marathon,Brazil,6,June,2020,20K,23.5,1220
+57887,Desafio Cerro Branco,23701.desafiocerrobrancohardmarathon.2020,Desafio Cerro Branco 2020 - Hard Marathon,Brazil,6,June,2020,50K,41.2,2190
+59161,La Mision Brasil,18913.lamisionbrasillamisionbrasil15k.2020,La Mision Brasil 2020 - La Mision Brasil 15K,Brazil,15,August,2020,20K,15,1020
+59167,La Mision Brasil,11263.lamisionbrasillamisionbrasil35k.2020,La Mision Brasil 2020 - La Mision Brasil 35K,Brazil,15,August,2020,50K,37.1,2400
+59169,La Mision Brasil,11265.lamisionbrasillamisionbrasil50k.2020,La Mision Brasil 2020 - La Mision Brasil 50K,Brazil,14,August,2020,50K,51.9,3470
+59171,La Mision Brasil,11267.lamisionbrasillamisionbrasil80k.2020,La Mision Brasil 2020 - La Mision Brasil 80K,Brazil,14,August,2020,100K,79.5,4880
+59559,ForrestRUN: Desafio Serrinha,24123.forrestrun-desafioserrinha5k-curtoi.2020,ForrestRUN: Desafio Serrinha 2020 - 5K - CURTO I,Brazil,16,February,2020,,,
+60201,Ultra Desafio Passa Quatro - MG,4485.ultradesafiopassaquatro-mgud80km.2020,Ultra Desafio Passa Quatro - MG 2020 - UD 80 Km,Brazil,8,February,2020,100K,78.2,2470
+60203,Ultra Desafio Passa Quatro - MG,4250.ultradesafiopassaquatro-mgud120km.2020,Ultra Desafio Passa Quatro - MG 2020 - UD 120 Km,Brazil,8,February,2020,100K,121.7,3640
+60205,Ultra Desafio Passa Quatro - MG,16329.ultradesafiopassaquatro-mgud35km.2020,Ultra Desafio Passa Quatro - MG 2020 - UD 35 Km,Brazil,8,February,2020,20K,31.7,1070
+60207,Ultra Desafio Passa Quatro - MG,16331.ultradesafiopassaquatro-mgud15km.2020,Ultra Desafio Passa Quatro - MG 2020 - UD 15 Km,Brazil,8,February,2020,,,
+60211,Ultra Desafio Passa Quatro - MG,24329.ultradesafiopassaquatro-mgud55km.2020,Ultra Desafio Passa Quatro - MG 2020 - UD 55 Km,Brazil,8,February,2020,50K,55.4,1710
+60315,Extremo Sul Ultramarathon,3447.extremosulultramarathonworld-slargestbeach.2020,Extremo Sul Ultramarathon 2020 - World's Largest Beach,Brazil,26,November,2020,100M,227.3,2980
+60513,1� STAGE INSANE,30977.1-stageinsaneinsane25k.2020,1� STAGE INSANE 2020 - INSANE 25K,Brazil,28,March,2020,20K,25,1020
+60515,1� STAGE INSANE,30978.1-stageinsaneinsane38k.2020,1� STAGE INSANE 2020 - INSANE 38K,Brazil,28,March,2020,50K,36.2,1460
+62087,Desafio Raiz Tapera,30912.desafioraiztaperadesafioraiztaperacurto.2020,Desafio Raiz Tapera 2020 - Desafio Raiz Tapera  CURTO,Brazil,7,March,2020,,,
+62089,Desafio Raiz Tapera,15913.desafioraiztaperadesafioraiztaperamedio.2020,Desafio Raiz Tapera 2020 - Desafio Raiz Tapera  M�DIO,Brazil,7,March,2020,20K,13.2,1050
+62417,Desafio Raiz Tapera,30910.desafioraiztaperadesafioraiztaperalongo.2020,Desafio Raiz Tapera 2020 - Desafio Raiz Tapera LONGO ,Brazil,7,March,2020,20K,22.2,1570
+62533,Jaragu� SkyMarathon,33144.jaraguaskymarathonjaragua30k.2020,Jaragu� SkyMarathon 2020 - Jaragu� 30K,Brazil,7,March,2020,20K,31.2,1670
+66972,ATT NOVA PETR�POLIS,21235.attnovapetropolistrajetolongo.2021,ATT NOVA PETR�POLIS 2021 - Trajeto Longo,Brazil,11,September,2021,20K,30,1370
+66973,ATT NOVA PETR�POLIS,23519.attnovapetropolistrajetomedio.2021,ATT NOVA PETR�POLIS 2021 - Trajeto M�dio,Brazil,11,September,2021,20K,20.4,900
+66974,ATT NOVA PETR�POLIS,23521.attnovapetropolistrajetocurto.2021,ATT NOVA PETR�POLIS 2021 - Trajeto Curto,Brazil,11,September,2021,,,
+66975,ATT NOVA PETR�POLIS,23523.attnovapetropolisultramaratona.2021,ATT NOVA PETR�POLIS 2021 - Ultramaratona,Brazil,11,September,2021,50K,47,1786
+67145,Indomit Pedra do Ba�,3520.indomitpedradobau50km.2021,Indomit Pedra do Ba� 2021 - 50 km,Brazil,12,June,2021,50K,48.4,2990
+68856,Ultra Desafio Passa Quatro - MG,4485.ultradesafiopassaquatro-mgud80km.2021,Ultra Desafio Passa Quatro - MG 2021 - UD 80 Km,Brazil,6,February,2021,100K,78.1,2460
+68857,Ultra Desafio Passa Quatro - MG,4250.ultradesafiopassaquatro-mgud120km.2021,Ultra Desafio Passa Quatro - MG 2021 - UD 120 Km,Brazil,6,February,2021,100K,117.1,3090
+68858,Ultra Desafio Passa Quatro - MG,16329.ultradesafiopassaquatro-mgud35km.2021,Ultra Desafio Passa Quatro - MG 2021 - UD 35 Km,Brazil,6,February,2021,50K,37,1320
+68859,Ultra Desafio Passa Quatro - MG,16331.ultradesafiopassaquatro-mgud15km.2021,Ultra Desafio Passa Quatro - MG 2021 - UD 15 Km,Brazil,6,February,2021,20K,20.5,570
+68860,Ultra Desafio Passa Quatro - MG,24329.ultradesafiopassaquatro-mgud55km.2021,Ultra Desafio Passa Quatro - MG 2021 - UD 55 Km,Brazil,6,February,2021,50K,58.7,1860
+77734,Brazil 135+ Ultramarathon,7577.brazil135-ultramarathonmaratona3.2020,Brazil 135+ Ultramarathon 2020 - Maratona 3,Brazil,15,January,2020,100K,127.1,3460
+77736,Brazil 135+ Ultramarathon,7377.brazil135-ultramarathon135miles.2020,Brazil 135+ Ultramarathon 2020 - 135 Miles,Brazil,15,January,2020,100M,209.3,6010
+77738,Brazil 135+ Ultramarathon,7577.brazil135-ultramarathonmaratona3.2021,Brazil 135+ Ultramarathon 2021 - Maratona 3,Brazil,12,January,2021,100K,127.1,3460
+77740,Brazil 135+ Ultramarathon,7377.brazil135-ultramarathon135miles.2021,Brazil 135+ Ultramarathon 2021 - 135 Miles,Brazil,12,January,2021,100M,209.3,6010
+77742,Brazil 135+ Ultramarathon,7577.brazil135-ultramarathonmaratona3.2022,Brazil 135+ Ultramarathon 2022 - Maratona 3,Brazil,10,January,2022,100K,127.1,3460
+77744,Brazil 135+ Ultramarathon,7377.brazil135-ultramarathon135miles.2022,Brazil 135+ Ultramarathon 2022 - 135 Miles,Brazil,10,January,2022,100M,209.3,6010
+79602,3� STAGE INSANE,31077.3-stageinsaneinsane10k.2019,3� STAGE INSANE 2019 - INSANE 10K,Brazil,24,September,2019,,,
+94566,Brazil 135+ Ultramarathon,7577.brazil135-ultramarathonmaratona3.2023,Brazil 135+ Ultramarathon 2023 - Maratona 3,Brazil,8,January,2023,100K,127.1,3460
+94568,Brazil 135+ Ultramarathon,7377.brazil135-ultramarathon135miles.2023,Brazil 135+ Ultramarathon 2023 - 135 Miles,Brazil,8,January,2023,100M,209.3,6010
