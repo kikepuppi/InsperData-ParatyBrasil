@@ -1,0 +1,2279 @@
+id-corrida,City / Country, qtd_Br
+179,France,1
+217,France,2
+220,France,5
+264,Italy,1
+274,France,2
+459,United States,3
+471,United States,1
+545,France,1
+592,France,2
+593,France,2
+596,France,1
+642,Italy,2
+654,France,2
+754,France,1
+801,United States,3
+1014,France,1
+1016,France,1
+1018,France,6
+1019,France,4
+1074,Italy,1
+1088,France,2
+1132,Portugal,1
+1183,Switzerland,1
+1200,Chile,1
+1294,France,1
+1310,France,3
+1422,France,1
+1431,Italy,1
+1447,France,3
+1460,France,1
+1643,United States,1
+1751,France,4
+1896,United States,1
+1904,Chile,1
+1923,United States,3
+1925,United States,4
+2072,United Kingdom,1
+2110,Italy,1
+2151,Argentina,2
+2254,France,2
+2255,France,2
+2256,France,4
+2292,Switzerland,2
+2293,Switzerland,2
+2294,Italy,1
+2306,France,1
+2378,United States,1
+2433,Portugal,2
+2474,France,1
+2485,Chile,1
+2515,Argentina,1
+2530,Argentina,11
+2591,United States,2
+2592,United States,1
+2614,Italy,1
+2615,Switzerland,1
+2627,Egypt,2
+2665,United Kingdom,1
+2666,United Kingdom,3
+2673,Argentina,1
+2789,United States,1
+2862,France,1
+2874,France,2
+2876,France,4
+2877,France,6
+2915,United States,1
+2933,Italy,1
+2939,Portugal,5
+3020,France,1
+3073,Morocco,3
+3090,Portugal,3
+3159,Italy,1
+3176,Switzerland,2
+3215,Germany,2
+3233,Egypt,2
+3236,Spain,2
+3237,Spain,1
+3370,France,1
+3398,United States,3
+3400,Germany,1
+3444,United States,1
+3477,Chile,1
+3489,Japan,1
+3534,Argentina,12
+3535,Argentina,7
+3564,United States,1
+3650,United States,1
+3796,Argentina,2
+3938,Jordan,1
+3940,France,2
+3941,France,8
+3961,Spain,1
+4069,Portugal,2
+4073,Portugal,1
+4074,Portugal,1
+4099,Argentina,27
+4100,Argentina,5
+4102,Denmark,1
+4159,Chile,4
+4161,France,6
+4289,Switzerland,3
+4291,Switzerland,1
+4293,Italy,4
+4318,Luxembourg,1
+4355,Switzerland,1
+4386,France,1
+4415,Germany,1
+4432,Morocco,2
+4528,United States,1
+4552,Argentina,1
+4576,Italy,7
+4577,Japan,2
+4623,France,1
+4709,Israel,1
+4716,United States,1
+4804,United States,1
+4816,Chile,1
+4831,Chile,2
+4917,France,2
+4947,United States,1
+5011,United Kingdom,1
+5043,Argentina,1
+5079,Portugal,1
+5175,United States,2
+5212,United States,1
+5241,Sweden,1
+5278,Italy,1
+5285,United States,1
+5286,United States,1
+5288,Spain,2
+5560,Switzerland,3
+5582,New Zealand,1
+5583,Ecuador,1
+5615,United States,1
+5645,United States,1
+5793,Portugal,2
+5794,Portugal,2
+5879,Argentina,19
+5880,Argentina,1
+5958,Mexico,1
+6025,France,2
+6104,France,12
+6110,Argentina,1
+6127,Portugal,2
+6138,Argentina,28
+6139,Argentina,1
+6235,Portugal,3
+6243,United States,1
+6271,Peru,1
+6368,Chile,1
+6420,Denmark,1
+6471,Chile,1
+6547,Argentina,262
+6554,France,4
+6555,France,4
+6557,France,7
+6558,France,6
+6606,Italy,2
+6607,Italy,1
+6658,United Kingdom,1
+6659,United Kingdom,1
+6660,United Kingdom,1
+6685,Switzerland,1
+6691,Israel,1
+6726,Portugal,4
+6735,Spain,1
+6761,Japan,4
+6863,Spain,1
+6892,Argentina,1
+6920,Canada,1
+6923,Spain,2
+6927,Argentina,30
+6940,Canada,1
+7031,Argentina,1
+7034,Chile,1
+7044,Spain,1
+7076,Australia,1
+7077,Australia,1
+7117,United States,1
+7198,United States,1
+7274,Spain,1
+7304,United States,2
+7358,Spain,1
+7455,New Zealand,4
+7489,United States,1
+7495,United States,2
+7496,United States,2
+7539,Australia,1
+7548,Australia,1
+7558,United Kingdom,1
+7559,United States,1
+7567,Chile,10
+7570,Chile,5
+7593,Italy,1
+7603,Argentina,19
+7681,Australia,1
+7692,Spain,1
+7695,Portugal,1
+7936,Japan,1
+7949,Ecuador,1
+7980,United Kingdom,1
+7982,Chile,5
+8036,France,1
+8037,Greece,1
+8101,Argentina,1
+8112,Argentina,170
+8184,Chile,8
+8185,Chile,1
+8186,Chile,1
+8215,United Kingdom,1
+8250,Chile,1
+8333,Morocco,1
+8357,France,1
+8392,United Kingdom,1
+8402,Argentina,48
+8403,Argentina,19
+8404,Argentina,13
+8580,Argentina,24
+8588,Australia,1
+8589,France,31
+8591,France,9
+8592,France,7
+8593,France,7
+8601,Australia,1
+8643,Switzerland,1
+8668,United States,1
+8687,France,5
+8689,France,2
+8700,Denmark,1
+8729,Portugal,4
+8841,Portugal,1
+8842,Portugal,1
+8844,Portugal,1
+8862,Belgium,1
+8917,Italy,1
+8954,Japan,1
+8966,United Kingdom,2
+8976,Spain,1
+8983,Spain,1
+8987,Spain,2
+9027,Peru,2
+9063,Spain,1
+9081,New Zealand,2
+9085,Italy,2
+9095,Spain,2
+9121,France,2
+9128,Switzerland,1
+9170,Switzerland,1
+9178,Italy,3
+9200,Indonesia,1
+9268,Slovenia,1
+9272,Spain,1
+9349,South Africa,2
+9350,South Africa,2
+9370,Canada,1
+9461,United States,1
+9489,Argentina,1
+9497,"Hong Kong, China",1
+9500,Spain,1
+9511,France,1
+9559,Argentina,7
+9561,Argentina,1
+9564,United States,1
+9567,United States,6
+9568,United States,2
+9569,Peru,1
+9688,Spain,1
+9689,Spain,1
+9706,Switzerland,1
+9716,Ecuador,2
+9717,Namibia,4
+9722,Chile,1
+9723,Chile,5
+9742,Germany,6
+9808,Argentina,3
+9809,Argentina,1
+9832,Portugal,3
+9835,Portugal,1
+9842,Chile,3
+9844,Chile,3
+9850,United States,1
+9859,Venezuela,1
+9919,France,2
+9928,France,1
+9952,Mexico,1
+9994,Croatia,1
+10076,Portugal,2
+10120,Chile,15
+10121,Chile,12
+10123,Chile,8
+10168,Italy,1
+10196,Portugal,1
+10226,Australia,1
+10265,Chile,6
+10266,Chile,7
+10267,Chile,21
+10325,China,1
+10326,Morocco,5
+10364,Argentina,2
+10387,United Kingdom,1
+10408,Canada,1
+10513,Spain,1
+10574,Chile,5
+10575,Chile,3
+10702,Cambodia,1
+10723,Switzerland,1
+10772,Argentina,20
+10773,Argentina,6
+10774,Argentina,48
+10810,United Arab Emirates,1
+10814,Argentina,104
+10861,Portugal,1
+10868,Portugal,1
+10876,Portugal,2
+10932,Australia,1
+10943,Chile,10
+10949,Japan,1
+10958,Portugal,4
+10960,Portugal,1
+10961,Portugal,1
+11010,Italy,1
+11059,United Kingdom,1
+11070,Canada,1
+11080,Canada,2
+11081,Canada,1
+11082,Canada,2
+11117,United Kingdom,1
+11155,United States,1
+11158,Portugal,1
+11249,United States,1
+11259,France,11
+11260,France,17
+11261,France,23
+11263,France,4
+11270,France,2
+11299,South Africa,1
+11301,Italy,1
+11326,United Arab Emirates,1
+11347,Argentina,1
+11357,Switzerland,1
+11409,Spain,3
+11417,Spain,1
+11438,Mongolia,2
+11456,Italy,1
+11488,Italy,1
+11501,Switzerland,1
+11553,Portugal,1
+11558,Canada,1
+11559,Canada,1
+11564,Spain,1
+11601,France,1
+11607,Italy,1
+11625,Mongolia,1
+11642,Turkey,2
+11717,Argentina,1
+11721,Morocco,3
+11791,Switzerland,1
+11812,United Arab Emirates,1
+11823,Spain,2
+11851,United States,1
+11855,United States,2
+11864,United States,1
+11878,Switzerland,1
+11890,Portugal,2
+11918,Israel,1
+11927,United States,2
+11929,United States,2
+11976,France,1
+11977,France,4
+11996,Costa Rica,1
+12000,Morocco,1
+12001,United States,2
+12002,United States,4
+12003,United States,14
+12006,United States,1
+12028,Denmark,1
+12063,Portugal,1
+12096,Spain,1
+12109,Peru,1
+12154,Argentina,138
+12178,France,2
+12187,Switzerland,1
+12213,Venezuela,5
+12218,Germany,1
+12246,Chile,1
+12300,Portugal,1
+12307,Portugal,2
+12375,Portugal,1
+12377,New Zealand,1
+12393,Spain,1
+12501,United States,2
+12522,Argentina,85
+12523,Argentina,46
+12524,Argentina,85
+12526,United States,1
+12536,United States,1
+12575,Italy,1
+12577,Italy,1
+12611,Argentina,7
+12612,Argentina,2
+12613,Argentina,5
+12618,Canada,1
+12635,Italy,1
+12644,Portugal,2
+12660,France,1
+12740,Luxembourg,1
+12792,Spain,1
+12807,Peru,1
+12809,Peru,1
+12865,United States,4
+12917,Paraguay,1
+12937,New Zealand,1
+12938,New Zealand,6
+13038,Italy,3
+13039,Italy,4
+13047,Argentina,1
+13068,Spain,1
+13107,Portugal,2
+13144,Chile,17
+13157,South Korea,1
+13183,Switzerland,1
+13253,Mexico,1
+13309,Australia,1
+13330,Colombia,1
+13332,Colombia,2
+13414,Argentina,15
+13456,Turkey,1
+13469,Chile,1
+13549,Spain,5
+13551,Spain,5
+13553,Spain,2
+13555,Spain,2
+13561,Chile,5
+13563,Chile,8
+13565,Chile,11
+13569,Chile,1
+13605,Malaysia,1
+13693,France,1
+13769,Belgium,1
+13793,Portugal,4
+13795,Portugal,3
+13995,Spain,3
+14011,United Kingdom,1
+14021,Switzerland,1
+14035,Spain,2
+14093,Argentina,1
+14097,Argentina,1
+14421,Spain,1
+14427,Portugal,1
+14525,Argentina,2
+14595,"Hong Kong, China",1
+14953,France,1
+14955,France,1
+15197,Switzerland,1
+15201,Portugal,1
+15237,Hungary,1
+15245,Argentina,12
+15257,Argentina,4
+15313,Argentina,24
+15314,Argentina,97
+15315,Argentina,111
+15316,Argentina,29
+15317,Argentina,7
+15321,Italy,1
+15324,Japan,5
+15356,Argentina,1
+15403,Portugal,1
+15405,Portugal,1
+15411,Belgium,2
+15417,Switzerland,1
+15423,Switzerland,1
+15437,Spain,1
+15449,France,1
+15495,Chile,7
+15497,Chile,11
+15507,Chile,1
+15509,Chile,2
+15577,"Hong Kong, China",1
+15707,Portugal,1
+15725,Switzerland,1
+15727,Switzerland,1
+15743,France,1
+15771,United States,1
+15789,France,1
+15875,Portugal,1
+15887,Mexico,1
+15891,Chile,3
+15893,Chile,13
+15895,Chile,13
+15897,Chile,17
+15925,Switzerland,1
+15935,Chile,1
+15937,Chile,16
+15939,Chile,2
+15949,United States,1
+15979,Portugal,2
+15981,Portugal,3
+15983,Portugal,3
+16059,Argentina,1
+16121,United States,1
+16135,Italy,1
+16173,Portugal,4
+16175,Portugal,9
+16179,Bulgaria,1
+16215,France,1
+16305,Germany,1
+16397,United States,1
+16405,Argentina,5
+16407,Argentina,60
+16441,Italy,2
+16513,United Kingdom,1
+16515,United Kingdom,1
+16623,France,1
+16649,Chile,14
+16653,Chile,34
+16655,Chile,42
+16693,Portugal,1
+16699,Switzerland,1
+16729,United States,1
+16731,United States,1
+16751,Austria,1
+16769,Portugal,1
+16783,Italy,1
+16877,Italy,8
+16885,Australia,2
+16887,Australia,3
+16889,Australia,1
+16943,Switzerland,1
+17033,France,1
+17131,Spain,2
+17221,Italy,1
+17225,Italy,1
+17331,Spain,1
+17347,Japan,2
+17381,France,18
+17383,France,13
+17387,France,22
+17491,Spain,2
+17585,United States,1
+17661,France,1
+17763,Turkey,1
+17771,Bolivia,2
+17775,United States,1
+17893,Spain,1
+17951,Switzerland,2
+17955,Switzerland,1
+17961,Switzerland,1
+18027,Spain,1
+18033,Portugal,2
+18085,Canada,1
+18167,Switzerland,1
+18187,Spain,1
+18209,Chile,4
+18211,Mongolia,1
+18213,Namibia,2
+18219,Italy,1
+18287,Spain,1
+18299,Morocco,1
+18303,Morocco,1
+18359,Portugal,2
+18389,Chinese Taipei,1
+18443,Portugal,1
+18483,Spain,1
+18485,Spain,1
+18589,Argentina,15
+18591,Argentina,87
+18593,Argentina,68
+18595,France,1
+18597,France,1
+18603,Argentina,16
+18615,Portugal,1
+18719,France,7
+18721,France,6
+18723,France,7
+18731,France,4
+18735,United States,1
+18741,United States,1
+18745,United States,1
+18747,United States,1
+18767,United States,1
+18773,United States,1
+18775,United States,1
+18805,Luxembourg,1
+18857,France,1
+18971,South Africa,1
+18975,South Africa,1
+19025,Switzerland,1
+19067,Italy,3
+19117,Colombia,1
+19239,United States,1
+19259,Portugal,1
+19261,Portugal,1
+19263,Portugal,2
+19293,Portugal,3
+19295,Peru,4
+19297,Peru,1
+19325,Spain,1
+19337,France,2
+19377,Ecuador,1
+19507,Venezuela,2
+19541,Peru,13
+19641,Switzerland,1
+19653,France,1
+19661,Italy,6
+19663,Italy,16
+19665,Italy,3
+19789,Italy,1
+19807,Spain,1
+19831,France,1
+19891,Greece,1
+19907,Italy,1
+19975,Ecuador,2
+20045,Spain,1
+20077,France,1
+20145,Argentina,1
+20273,France,1
+20275,France,1
+20373,France,1
+20453,Portugal,1
+20577,"Pu Luong, Thanh Hoa",2
+20669,Peru,5
+20675,Peru,1
+20679,Peru,1
+20763,Paraguay,5
+21027,Switzerland,1
+21041,Portugal,1
+21043,United States,2
+21075,Ecuador,1
+21109,Italy,1
+21239,Colombia,1
+21427,Portugal,1
+21543,Portugal,1
+21681,France,1
+21829,France,1
+21867,Argentina,7
+21869,Argentina,3
+21871,Argentina,12
+21891,New Zealand,1
+21981,Argentina,9
+22009,Italy,1
+22059,Argentina,2
+22067,Chile,6
+22071,Chile,6
+22079,Canada,1
+22289,Colombia,1
+22391,Morocco,2
+22455,Mexico,1
+22515,South Africa,6
+22517,South Africa,4
+22519,South Africa,5
+22583,Chile,2
+22631,Switzerland,1
+22707,Austria,1
+22713,Argentina,2
+22741,Spain,3
+22745,Spain,1
+22829,Portugal,1
+22923,Colombia,1
+22929,Ecuador,2
+23091,Spain,1
+23097,Switzerland,1
+23389,Argentina,2
+23513,Argentina,2
+23555,Argentina,1
+23565,Portugal,1
+23587,Bhutan,1
+23639,Spain,1
+23711,Croatia,4
+23717,Croatia,1
+23721,Spain,1
+23883,Spain,1
+23961,"Hong Kong, China",1
+24015,Portugal,1
+24069,Colombia,1
+24239,Bolivia,1
+24243,Australia,1
+24245,Australia,4
+24247,Australia,1
+24377,Italy,1
+24399,France,1
+24401,France,1
+24449,Argentina,64
+24451,Argentina,31
+24667,Argentina,80
+24677,Argentina,7
+24679,Argentina,13
+24681,Argentina,28
+24683,Argentina,43
+24719,United Kingdom,1
+24725,United Kingdom,1
+24795,France,20
+24833,Switzerland,1
+24851,France,1
+24871,Norway,1
+24899,Switzerland,1
+24985,Spain,1
+25039,Portugal,1
+25041,Portugal,1
+25049,France,1
+25067,France,1
+25071,France,12
+25073,France,15
+25075,France,26
+25077,France,31
+25113,Ecuador,1
+25169,France,2
+25193,France,4
+25195,France,4
+25197,France,6
+25285,Austria,1
+25297,Austria,1
+25409,"Hong Kong, China",1
+25463,Switzerland,2
+25503,Chile,1
+25515,Switzerland,1
+25517,Switzerland,1
+25625,Chile,2
+25627,Chile,5
+25629,Chile,2
+25687,Spain,2
+25783,France,1
+25807,Australia,3
+25809,Australia,2
+25811,Australia,1
+25875,Switzerland,3
+25881,Switzerland,1
+25935,United States,3
+25979,Italy,1
+26027,Colombia,1
+26029,Colombia,1
+26033,Colombia,1
+26145,Portugal,1
+26179,Italy,2
+26181,Italy,3
+26183,Italy,2
+26217,Argentina,11
+26219,Argentina,7
+26221,Argentina,5
+26335,Austria,2
+26385,Chile,5
+26387,Chile,16
+26389,Chile,16
+26391,Spain,9
+26441,Peru,1
+26565,France,1
+26573,France,1
+26757,Argentina,1
+26775,United Kingdom,1
+26795,Portugal,1
+26809,Portugal,1
+26865,Portugal,1
+26915,Switzerland,1
+26923,Switzerland,1
+26933,Argentina,1
+27005,Sweden,1
+27037,Portugal,2
+27043,Portugal,1
+27077,United States,1
+27079,United States,1
+27197,Portugal,1
+27223,Switzerland,1
+27245,Canada,1
+27309,United States,1
+27543,France,2
+27657,Australia,1
+27675,Canada,2
+27753,Italy,1
+27785,Peru,2
+27793,France,1
+27879,Australia,6
+27889,Turkey,1
+27891,Turkey,1
+27905,Belgium,1
+27939,Spain,1
+27971,France,11
+27973,Mexico,2
+27987,France,1
+28001,"Hong Kong, China",1
+28031,Portugal,1
+28059,United States,1
+28061,United States,2
+28223,United States,1
+28343,Switzerland,1
+28359,Morocco,1
+28361,Morocco,2
+28517,Belgium,1
+28531,Peru,1
+28533,Peru,2
+28535,Peru,2
+28537,Peru,6
+28549,Chile,2
+28551,Argentina,1
+28639,Bolivia,4
+28695,Italy,3
+28697,Italy,16
+28699,Italy,5
+28773,Chile,9
+28775,Chile,22
+28777,Chile,15
+28779,Chile,10
+28781,Chile,18
+28785,Chile,14
+28819,Portugal,1
+28855,Spain,1
+28857,Spain,1
+28873,New Zealand,1
+29085,Argentina,2
+29097,France,2
+29099,France,1
+29101,France,1
+29103,Argentina,1
+29225,Spain,1
+29389,Argentina,11
+29409,Argentina,1
+29441,Portugal,6
+29447,Portugal,2
+29481,United States,1
+29483,United States,1
+29509,Spain,1
+29637,Romania,1
+29639,Romania,1
+29979,Spain,2
+29983,Spain,1
+30085,"Hong Kong, China",1
+30101,Spain,1
+30201,Switzerland,2
+30289,Portugal,3
+30347,Spain,2
+30349,Spain,2
+30357,Italy,1
+30369,Spain,1
+30439,Mexico,2
+30461,United States,2
+30501,Austria,1
+30575,Croatia,1
+30651,Peru,1
+30653,Peru,1
+30715,Portugal,1
+30769,Italy,1
+30791,United States,1
+30903,Belgium,1
+30949,Nepal,1
+30953,Portugal,3
+30975,France,1
+30997,Spain,1
+31087,Switzerland,2
+31109,France,1
+31141,Italy,1
+31221,Spain,1
+31283,France,1
+31289,Argentina,1
+31309,Oman,1
+31389,Spain,1
+31469,France,1
+31617,Italy,1
+31671,United States,1
+31763,Chile,1
+31947,Belgium,1
+32073,Argentina,3
+32077,Argentina,15
+32079,Argentina,18
+32081,Argentina,10
+32083,Argentina,2
+32213,Portugal,1
+32249,United States,1
+32417,France,1
+32483,Belgium,1
+32503,Switzerland,1
+32589,Ecuador,2
+32801,Oman,1
+32849,France,1
+32897,Chile,1
+33147,Chile,11
+33189,Paraguay,3
+33191,Paraguay,1
+33343,Japan,1
+33357,Portugal,1
+33455,Portugal,2
+33511,Portugal,2
+33577,United States,1
+33667,Portugal,1
+33677,Peru,1
+33679,Peru,3
+33681,Peru,1
+33733,Nepal,1
+33765,South Africa,5
+33767,South Africa,5
+33769,South Africa,5
+33771,South Africa,2
+33799,Indonesia,1
+33805,Chile,2
+33875,Mexico,1
+33939,Nepal,1
+34227,Japan,1
+34269,France,1
+34271,France,1
+34315,Spain,5
+34317,Spain,3
+34321,Spain,2
+34377,Chile,1
+34379,Chile,1
+34381,Chile,1
+34595,Singapore,1
+34603,Japan,1
+34605,Japan,1
+34693,Switzerland,1
+34755,Portugal,2
+34757,Italy,1
+34801,Belgium,1
+34867,Belgium,1
+34933,Mexico,1
+35035,Namibia,2
+35119,Argentina,1
+35129,Chile,1
+35223,Portugal,1
+35225,Portugal,1
+35363,Argentina,33
+35365,Argentina,100
+35367,Argentina,115
+35369,Argentina,40
+35373,Argentina,8
+35467,Switzerland,2
+35515,Argentina,1
+35517,Argentina,1
+35545,Portugal,10
+35547,Argentina,4
+35549,Argentina,16
+35551,Argentina,1
+35691,Colombia,1
+35721,Croatia,2
+35725,Croatia,1
+35797,South Africa,1
+35917,Spain,1
+35953,Turkey,1
+35987,Portugal,1
+35989,Portugal,1
+35991,Portugal,1
+36027,Chile,1
+36029,Chile,3
+36093,Chile,10
+36095,Chile,10
+36171,Italy,4
+36173,Italy,14
+36175,Italy,4
+36195,Chile,1
+36293,Japan,1
+36305,Spain,1
+36381,Switzerland,2
+36421,Spain,1
+36471,France,1
+36505,Switzerland,1
+36507,Switzerland,1
+36511,United Kingdom,1
+36593,Mongolia,1
+36645,Portugal,5
+36647,Portugal,1
+36649,Portugal,5
+36675,France,1
+36697,Italy,5
+36721,Chile,1
+36761,Spain,1
+36777,France,3
+36779,France,6
+36783,Indonesia,1
+36847,Spain,1
+36893,Portugal,1
+37009,Finland,1
+37085,Portugal,4
+37109,Spain,2
+37187,Portugal,1
+37193,France,1
+37359,Romania,1
+37389,Portugal,5
+37407,Austria,1
+37471,France,1
+37493,Spain,1
+37615,United States,1
+37617,United States,1
+37743,Switzerland,2
+37747,Switzerland,1
+37751,Switzerland,3
+37791,France,3
+37819,France,1
+37871,United States,2
+37873,United States,2
+37893,France,3
+37895,France,3
+37899,France,6
+37901,France,3
+37903,France,3
+37927,France,1
+37929,France,1
+37967,United States,1
+37989,United Kingdom,1
+37995,Switzerland,1
+38001,Switzerland,1
+38017,"Pu Luong, Thanh Hoa",1
+38025,"Pu Luong, Thanh Hoa",1
+38059,Argentina,16
+38061,Argentina,4
+38063,Argentina,7
+38191,Argentina,10
+38407,Peru,1
+38423,Switzerland,2
+38479,Morocco,1
+38487,Japan,2
+38491,Italy,1
+38525,Italy,1
+38527,Italy,1
+38619,Portugal,3
+38627,Argentina,33
+38629,Argentina,26
+38631,Argentina,13
+38681,Japan,1
+38727,China,1
+38789,Italy,1
+38829,Japan,2
+38927,Italy,1
+38929,Italy,4
+38975,United Kingdom,1
+39019,United States,1
+39091,Chile,8
+39093,Chile,8
+39095,Chile,3
+39097,Chile,10
+39129,Switzerland,1
+39139,Switzerland,1
+39175,Austria,1
+39191,United States,2
+39311,Austria,2
+39345,Portugal,2
+39559,Portugal,2
+39603,Argentina,1
+39657,Portugal,1
+39663,Portugal,1
+39699,France,1
+39739,Italy,1
+39751,Portugal,1
+39843,Switzerland,1
+39873,Australia,1
+39879,France,16
+39881,France,16
+39883,France,19
+39885,France,19
+39887,France,26
+39917,Spain,1
+39923,Spain,1
+39963,Sweden,1
+39997,Australia,1
+40207,Italy,1
+40217,France,1
+40375,Spain,2
+40377,Spain,2
+40403,Switzerland,1
+40405,Switzerland,1
+40459,Portugal,2
+40507,United States,3
+40593,Italy,2
+40675,United States,1
+40683,United States,2
+40885,France,1
+40893,France,1
+40913,Spain,1
+40977,Italy,1
+40979,Turkey,3
+40981,Turkey,1
+40983,Turkey,1
+41009,United States,1
+41179,Canada,1
+41183,Canada,1
+41269,United States,1
+41275,Argentina,1
+41285,South Africa,1
+41301,Spain,1
+41313,Spain,1
+41399,Italy,1
+41435,Spain,1
+41509,New Zealand,4
+41513,New Zealand,2
+41579,Switzerland,1
+41645,Spain,1
+41651,Spain,1
+41673,Switzerland,2
+41731,Switzerland,1
+41733,Switzerland,2
+41755,France,1
+41983,Spain,1
+42021,Argentina,2
+42039,Argentina,228
+42041,Argentina,127
+42043,Argentina,66
+42045,Argentina,105
+42097,Portugal,2
+42125,United States,1
+42207,Spain,2
+42361,Spain,1
+42377,France,1
+42385,Argentina,3
+42387,Argentina,1
+42389,Argentina,2
+42531,Switzerland,1
+42533,Switzerland,1
+42589,Portugal,2
+42601,Ecuador,1
+42657,Mexico,6
+42705,Chile,4
+42727,Italy,2
+43003,United Kingdom,1
+43167,United States,1
+43173,United States,1
+43175,United States,1
+43177,United States,2
+43183,United States,1
+43185,United States,2
+43189,United States,1
+43199,Portugal,1
+43213,Canada,1
+43263,Italy,1
+43555,Colombia,1
+43649,Portugal,3
+43651,Portugal,1
+43653,Portugal,1
+43657,Portugal,1
+43755,France,1
+43765,France,1
+43815,Spain,1
+43817,Spain,1
+43839,Chile,6
+43841,Chile,4
+43843,Chile,19
+43845,Chile,9
+43847,Chile,3
+43955,Mexico,2
+43963,Portugal,2
+43965,Nepal,1
+44077,Belgium,2
+44241,Spain,1
+44569,Italy,2
+44661,Peru,1
+44663,Peru,3
+44675,Portugal,1
+44757,Indonesia,1
+44765,South Africa,6
+44767,South Africa,5
+44769,South Africa,3
+44771,South Africa,4
+44845,United States,1
+44883,France,1
+44977,Portugal,1
+44991,Colombia,2
+45023,Chile,1
+45027,Portugal,1
+45031,Portugal,1
+45169,Slovenia,1
+45223,United Kingdom,1
+45309,Portugal,1
+45453,Slovenia,1
+45485,Portugal,1
+45597,Chile,2
+45641,Malaysia,1
+45659,Italy,1
+45709,Mexico,1
+45777,Indonesia,1
+45779,Israel,1
+45875,Portugal,1
+45877,Portugal,1
+45989,Cape Verde,1
+46081,Norway,1
+46091,Argentina,1
+46095,Bolivia,1
+46215,Indonesia,1
+46223,France,1
+46359,Argentina,2
+46381,Mexico,1
+46445,France,1
+46517,Spain,1
+46673,Indonesia,1
+46789,Switzerland,1
+46843,Argentina,9
+46845,Argentina,2
+46847,Argentina,4
+46873,Portugal,2
+46875,Portugal,1
+46951,Chile,1
+46953,Chile,2
+46955,Chile,1
+47061,Chile,41
+47139,Argentina,1
+47163,Oman,1
+47165,Oman,1
+47167,Oman,1
+47207,Portugal,1
+47331,Peru,3
+47335,Peru,3
+47337,Peru,1
+47765,Mexico,2
+48019,Saint Pierre de la R�union,3
+48021,Cilaos,3
+48033,Morocco,1
+48073,Netherlands,1
+48095,Chile,2
+48097,Chile,35
+48099,Chile,22
+48151,Chile,3
+48153,Chile,4
+48257,Japan,1
+48375,Portugal,1
+48441,Portugal,1
+48503,Belgium,1
+48509,Belgium,1
+48531,Paraguay,1
+48541,Portugal,1
+48543,Portugal,3
+48559,Paraguay,1
+48573,France,2
+48647,Peru,1
+48737,United Kingdom,1
+48757,Argentina,2
+48759,Argentina,1
+48773,Argentina,2
+48809,Belgium,1
+48811,Belgium,1
+48885,United States,1
+48927,Chile,2
+48929,Chile,1
+49023,Mexico,1
+49025,Mexico,1
+49045,Switzerland,1
+49059,New Zealand,2
+49107,"Hong Kong, China",1
+49347,"Page, Arizona",2
+49645,Argentina,1
+50129,Peru,1
+50155,"Hong Kong, China",2
+50405,New Zealand,3
+50555,Argentina,3
+50853,Argentina,1
+51155,Mexico,1
+51229,Chile,1
+51251,Portugal,2
+51437,Ireland,1
+51439,Ireland,1
+51441,Ireland,1
+51463,Portugal,2
+51865,France,1
+52185,Switzerland,1
+52283,France,1
+52431,Chile,7
+52433,Chile,8
+52435,Chile,7
+52439,Chile,8
+52609,The Gap,3
+52613,The Gap,1
+52651,Mexico,1
+52655,Mexico,1
+52667,United Kingdom,1
+52811,Belgium,1
+52889,Chinese Taipei,1
+52939,Portugal,1
+52969,Switzerland,1
+53027,Belgium,1
+53095,Spain,1
+53521,Switzerland,2
+53799,Portugal,1
+53827,France,1
+53883,Indonesia,1
+54003,Finhaut,1
+54201,Austria,1
+54203,Austria,1
+54291,"Sapa, Lao Cai",1
+54523,France,1
+54593,Chile,5
+54609,Portugal,1
+54633,Villaverde de Guadalimar,1
+54661,Italy,1
+54699,France,1
+54861,Portugal,1
+54967,Argentina,1
+55107,Spain,1
+55379,Thailand,1
+55693,SANTA COLOMA DE FARNERS,1
+56173,Spain,3
+56175,Spain,3
+56177,Spain,1
+56289,Portugal,1
+56291,Portugal,1
+56555,Australia,1
+56969,Portugal,3
+57219,Spain,1
+57431,Portugal,1
+57617,Sweden,1
+57621,Sweden,2
+57651,Australia,3
+57659,Argentina,2
+57673,Argentina,1
+57711,Arco,1
+57781,Klaipeda (Hotel Smiltynes Jachtklubas),1
+57875,Portugal,1
+57903,Spain,1
+58257,Argentina,9
+58259,Argentina,3
+58261,Argentina,6
+58605,Norway,1
+58723,Colombia,1
+58877,United States,1
+58997,Argentina,153
+59247,Portugal,1
+59381,Besan�on,1
+59383,Besan�on,1
+59425,Centuri,1
+59437,United States,1
+59443,"Dalton, Georga",1
+59455,Ireland,1
+59799,United States,1
+60075,Portugal,2
+60077,Portugal,2
+60161,Dalton,1
+60223,Penhas da Sa�de,1
+60227,Portugal,1
+60319,Portugal,1
+60321,Portugal,1
+62425,United Kingdom,1
+63135,Les Houches,1
+63703,Swakopmund,2
+64139,Escuredo,1
+64187,Les,1
+64189,Beret,2
+64257,Switzerland,2
+64425,San Martin de Casta�eda,1
+64439,San Martin de Casta�eda,1
+64445,Courchevel le praz,1
+64761,L'Abbaye,1
+65031,Old Deer Park - Richmond,1
+65153,High1 resort,1
+65307,France,1
+65309,France,1
+65523,Pico dos Barcelos (Funchal),2
+65627,Porto Moniz,5
+65823,Blairsville,1
+65935,Las Palmas de Gran Canaria,1
+65939,Gara��n.,1
+66071,Corfe Castle,1
+66107,"Hatch, Utah",2
+66329,Tilcara,1
+66472,Macugnaga - Pecetto,1
+66847,Grindelwald,1
+66854,"KCC Oval, Katoomba",2
+66855,"Scenic World, Katoomba",1
+67077,France,1
+67173,Liddes,1
+67234,Colmars-les-Alpes,1
+67253,Les Diablerets,1
+67323,Montreux,1
+67326,Bex,1
+67327,Omegna,1
+67340,Salzburg,1
+67342,Austria,1
+67422,London,1
+67429,Austria,1
+67518,The Gap,1
+67548,Val d'Is�re,1
+67587,Ansi�es,1
+67588,Portugal,2
+67601,Morgins,1
+67602,Grande Dixence,1
+67604,Finhaut,2
+67967,L'Etivaz,1
+68044,Terrebonne,2
+68131,Saarbr�cken,1
+68187,Nida (Parnidis dune),1
+68234,Office de Tourisme Morzine,1
+68306,MESONGHI,1
+68309,Charmey,1
+68387,Brisbane,1
+68402,Portugal,1
+68403,"Camacha, Porto Santo",1
+68424,Innsbruck,1
+68595,"Norton, Virginia",1
+68611,San Mart�n De Los Andes,2
+68612,San Mart�n De Los Andes,2
+68616,Sagres,1
+68689,Suhl,1
+68691,Beaupre,1
+68700,Le Mouret,1
+68951,Sion,1
+68996,Molveno,1
+69104,"Explorers Tree, Katoomba",1
+69147,Arco,1
+69181,Saint NABORD,1
+69219,"Cuyahoga Falls, OH",1
+69261,Canet d'Adri,1
+69270,Portugal,1
+69387,"Entre-ambos-os-rios, Ponte da Barca",1
+69389,Montaria,2
+69390,Dem (Caminha),2
+69392,Pit�es das J�nias,1
+69395,Melga�o,2
+69463,Fontainebleau,1
+69632,Canada,1
+69634,Parc national des Hautes-Gorges,1
+69636,Zec du Lac-au-Sable,1
+69833,Spain,1
+69925,Hartland,1
+69961,France,1
+69962,France,1
+70032,Australia,1
+70033,Mapleton,1
+70146,VALDILANA,1
+70156,Barcola,1
+70166,Tarvisio,1
+70320,Walyunga National Park,1
+70497,Monterreal Coahuila,5
+70808,Omegna,1
+70927,V�l�dalen,1
+70929,Trillevallen,1
+71020,Dion,1
+71179,Saint-Etienne,1
+71180,Sainte-Catherine,2
+71182,Chaponost,1
+71183,Lyon,1
+71254,Ba�os de Montemayor,1
+71456,Aiguines,1
+71572,Cloudland Canyon State Park,1
+71663,Salir,1
+71664,Salir,1
+71755,Portugal,1
+71818,Courmayeur,1
+71819,Chamonix,2
+71820,Orsi�res,1
+71821,Courmayeur,5
+71822,Martigny-Combe,8
+71833,allauch,1
+71887,Villa La Angostura,82
+71917,Abrantes,2
+72014,Farnham,1
+72064,Sever do Vouga,1
+72094,Val di Zoldo,1
+72095,Val di Zoldo,1
+72127,Hebden Bridge,1
+72142,Wembury,1
+72182,Podbrdo,2
+72223,San Mart�n De Los Andes,58
+72224,San Mart�n De Los Andes,59
+72225,San Mart�n De Los Andes,14
+72226,San Mart�n De Los Andes,25
+72227,San Mart�n De Los Andes,25
+72229,Dunedin,1
+72230,Indonesia,1
+72240,Mandalika,1
+72246,United States,1
+72268,San Carlos de Bariloche,2
+72269,San Carlos de Bariloche,1
+72271,San Carlos de Bariloche,5
+72272,San Carlos de Bariloche,2
+72284,Ferreira do Z�zere,1
+72298,Hatch Utah,1
+72299,"Hatch, Utah",1
+72300,"Hatch, Utah",1
+72301,"Hatch, Utah",1
+72310,Noosa,2
+72311,Pomona,1
+72313,Noosa,1
+72321,Noosa,2
+72352,Villa la Angostura,12
+72353,Villa la Angostura,4
+72384,Passy,1
+72426,PRADES,1
+72427,PRADES,1
+72433,Valongo,1
+72470,Oslo,1
+72590,Penhas da Sa�de,1
+72606,"Praia da Lagoa, Porto da Cruz",4
+72611,Beaupre,1
+72643,Torekov,1
+72647,"Page, Arizona",1
+72648,"Page, Arizona",1
+72708,Le Markstein,1
+72722,Houffalize,1
+72724,Houffalize,1
+72733,Marcona,1
+72749,Bromont,1
+72767,"Apple Valley, Utah",1
+72858,Courmayeur,4
+72871,Kilfinane,1
+72872,Ireland,1
+72886,Spain,1
+72892,Glencullen,1
+72969,Arco,1
+73010,Gr�chen,1
+73024,Saarbr�cken,1
+73055,Marquartstein,1
+73075,Barcelona,1
+73141,Bariloche,2
+73166,Charmey,2
+73181,"Rue de la Piste 1, 4950 Ovifat",1
+73197,Miranda do Corvo,1
+73202,Bobbin Head,1
+73203,Bobbin Head,1
+73245,Barcelos,1
+73290,S�len,1
+73297,Losheim am See,1
+73303,"Crystal Cascades, Redlynch",1
+73308,The Gap,1
+73325,San Pedro de Atacama,5
+73326,Swakopmund,1
+73345,Domaine du Ch�teau de Versailles (78),1
+73346,Terrasse de l'Observatoire de Meudon (92),1
+73347,Terrasse de l'Observatoire de Meudon (92),2
+73348,Domaine National de St-Cloud (92),1
+73397,Courmayeur,13
+73398,Courmayeur,21
+73399,Chamonix,14
+73400,Orsi�res,24
+73401,Martigny-Combe,3
+73445,Switzerland,2
+73472,Oberwald,1
+73536,"Blue Ridge, Ga",1
+73537,Blairsville,1
+73555,Oslo,1
+73571,Vall de Ux� ,1
+73585,Chamonix-Mont-Blanc,4
+73590,France,1
+73591,France,2
+73596,�anakkale / Yesilyurt,1
+73654,Miraflores de la Sierra (Madrid),2
+73658,Poole,1
+73664,Bray,1
+73665,Bray,1
+73682,Bray,2
+73685,Nidderdale Showground,1
+73753,Petworth,1
+73765,Coimbra/Lous�,1
+73788,�k�slompolo,1
+73810,Grindelwald,1
+73812,Grindelwald,2
+73813,Grindelwald,4
+73879,Rhyd-Ddu,1
+73896,Omegna,2
+73909,ARTENARA,1
+73970,Tilcara,1
+73986,Glasgow,1
+74120,Benasque,1
+74230,Ovifat,1
+74254,France,1
+74308,Monterreal Coahuila,2
+74319,gavirate,1
+74330,Zinal,1
+74336,LYON,2
+74432,United States,1
+74467,Sot de Chera,1
+74493,Verbier,1
+74494,Liddes,1
+74496,Verbier,1
+74530,Castell�,3
+74565,Samo�ns,1
+74582,Montreux,2
+74633,Australia,1
+74725,Bouffemont,1
+74752,Nida (Parnidis dune),1
+74768,London,2
+74789,ALQUEZAR,1
+74825,South Africa,1
+74827,South Africa,2
+74868,Huerta Grande,1
+74887,Ciudad de M�xico,1
+74904,Gumma,1
+74943,SAINT MARTIN D'ARDECHE,1
+75007,Tyneham,1
+75008,Tyneham,1
+75105,Villard de Lans,1
+75156,Passy,1
+75207,Saint Nazaire les Eymes,1
+75237,Latchi,1
+75246,Piau-Engaly,1
+75249,Piau-Engaly,1
+75252,Arouca,1
+75278,Verbania,1
+75314,Patonga Beach,1
+75346,United Kingdom,1
+75406,Radovljica Main Square,1
+75408,Kranjska gora Town Square,1
+75410,Kranjska gora Town Square,4
+75426,"Spring Valley, AZ",2
+75598,Manila,1
+75666,Wyaralong qld 4285,1
+75674,Ancaster ,2
+75824,Lagrangeville,1
+75858,Villa La Angostura,44
+75860,Villa La Angostura,5
+75862,Villa La Angostura,22
+75864,Villa La Angostura,29
+75962,MORZINE,1
+75970,MORZINE,1
+76028,CLARET,1
+76188,Condeixa-A-Nova,1
+76192,Condeixa-A-Nova,1
+76202,Penhas da Sa�de,1
+76242,Monistrol de Montserrat,1
+76248,Palam�s,1
+76318,Los Realejos (Tenerife),1
+76334,La Cienaga de Manabao,1
+76336,La Cienaga de Manabao,1
+76404,BOGOR,1
+76412,Porto Moniz,8
+76416,Monte,3
+76418,Porto da Cruz,3
+76450,Collet d'allevard,1
+76826,Curral das Freiras,1
+76898,Mexico,1
+76942,Squaw Valley Alpine Meadows,2
+77008,Gondomar,1
+77176,San Gil / Santander,1
+77210,Davos Platz,1
+77222,Area Attrezzata Musolino Messina,2
+77386,Montaria (viana do Castelo),1
+77390,Montaria,1
+77392,Dem (Caminha),2
+77394,"Entre-ambos-os-Rios, Ponte da Barca",1
+77396,"Entre-ambos-os-rios, Ponte da Barca",2
+77420,Penacova,6
+77422,Penacova,1
+77434,Norway,1
+77440,"Fonte da Areia, Porto Santo",1
+77460,Valongo,1
+77596,Innsbruck,1
+77724,Villaggio della Salute Pi� - Monterenzio (BO),1
+77874,Roubion,3
+77876,Menton,2
+77878,Villefranche-sur-Mer,2
+77880,Adelboden,1
+77882,Leukerbad,1
+77890,Monistrol d'Allier,1
+77898,"Mascota, Jalisco",3
+77900,Puerto Vallarta,2
+77902,Malec�n Puerto Vallarta,2
+77906,Auburn,2
+77910,KCC Oval Katoomba,3
+77912,"KCC Oval, Katoomba",3
+77914,"KCC Oval, Katoomba",3
+77922,St. Gilgen,1
+77930,Cortina d'Ampezzo,6
+77932,Cortina d'Ampezzo,8
+77934,"Corso Italia, Cortina d'Ampezzo",9
+77936,San Vigilio di Marebbe ,9
+77942,Ordino,1
+77944,Olympic Valley,1
+77948,Corte,1
+77952,Corte,1
+77954,Les,2
+77956,Vielha,6
+77958,Pla de Beret,1
+77960,Vielha,1
+77964,Mae Chame,1
+77970,Mae Chame,1
+78100,Bourg-St-Pierre,1
+78136,Faro de Fuencaliente,3
+78138,Roque de Los Muchachos,2
+78140,El Pino de La Virgen,1
+78260,United States,2
+78298,B�stad,2
+78308,Bray,1
+78310,Bray,1
+78312,Bray,1
+78348,Abrantes,1
+78350,"Bondi, Sydney",1
+78368,Santa Cita - Tomar,2
+78386,Cruzilia,23
+78400,"Spring Valley, AZ",1
+78504,MILLAU,1
+78702,Vila Nova de Paiva (Parque Bot�nico Arbutus do Demo),3
+78706,Mapleton,1
+78742,Sagres,1
+78890,Lyon,1
+78906,Las Palmas de Gran Canaria,1
+78908,Artenara,1
+78912,San Bartolom� de Tirajana,1
+78916,Agaete,1
+79022,Portugal,1
+79220,La Thuile,2
+79224,Ja,135
+79246,LYON,1
+79270,Queige,2
+79272,Queige,1
+79364,Heringer Millen,2
+79408,St-Ferr�ol-les-Neiges,1
+79474,Sainte-Catherine,1
+79478,Saint-Etienne,2
+79482,Lyon,1
+79646,Morocco,3
+79666,Comuna Torres del Paine,11
+79668,Comuna Torres del Paine,2
+79670,Comuna Torres del Paine,1
+79672,Comuna Torres del Paine,5
+79826,G�teborg,2
+79926,Simrishamn,2
+79960,Cape Town,3
+80024,Labin,1
+80026,Buzet,4
+80028,Motovun,3
+80030,Gro�njan ,2
+80032,Buzet,1
+80062,Auburn,3
+80064,Auburn,1
+80066,Auburn,2
+80068,Auburn,4
+80080,Gigondas,1
+80210,SAN CARLOS DE BARILOCHE,2
+80212,SAN CARLOS DE BARILOCHE,2
+80214,SAN CARLOS DE BARILOCHE,1
+80304,Mandello del Lario,1
+80330,Salir,1
+80332,Salir,1
+80334,Estoi,1
+80336,Estoi,1
+80366,Abrantes,1
+80370,"Los Penitentes, Mendoza",3
+80372,"Los Penitentes, Mendoza",7
+80374,"Los Penitentes, Mendoza",2
+80398,Portugal,1
+80400,Seia,1
+80444,Waterville,1
+80510,USHUAIA,1
+80512,Warnes,4
+80582,Melgarejo / Independencia,3
+80588,Melgarejo / Independencia,1
+80606,Huar�n,2
+80608,Huacawasi,2
+80612,Anz�re,1
+80668,Courmayeur,6
+80670,Courmayeur,6
+80672,Chamonix,17
+80674,Orsi�res,15
+80676,Martigny-Combe,3
+80692,Ghajnsielem,1
+80706,Villa Yacanto de Calamuchita,1
+80716,Chamonix Mont Blanc,2
+80720,Chamonix Mont Blanc,1
+80756,Valdo di Fomazza,6
+80794,Radda in Chianti,1
+80806,Prigen-Pasuruan,1
+80848,Hatch Utah,1
+80850,"Hatch, Utah",1
+80852,"Hatch, Utah",4
+81144,Torbole sul Garda,1
+81146,Arco,1
+81154,S�tila,2
+81214,Montseny,1
+81224,Domaine du Ch�teau de Versailles (78),1
+81226,Terrasse de l'Observatoire de Meudon (92),2
+81228,Terrasse de l'Observatoire de Meudon (92),3
+81232,Ile de Loisirs de Saint-Quentin-en-Yvelines (78),3
+81234,Domaine National de St-Cloud (92),1
+81320,Gen�ve,1
+81456,San Carlos de Bariloche,1
+81474,Torekov,1
+81548,Rovaniemi,1
+81550,Oudergem,1
+81572,La Roche-en-Ardenne,2
+81616,Val di Zoldo,2
+81618,Val di Zoldo,1
+81674,Stoneham,1
+81764,Houffalize,1
+81796,Riyadh,2
+81830,San Pedro de Atacama,1
+81896,Spain,1
+81972,France,1
+81976,Set�bal,1
+82152,Chamonix-Mont-Blanc,3
+82154,France,5
+82164,France,7
+82306,Santa Marta de Penagui�o,1
+82340,"Entre-ambos-os-Rios, Ponte da Barca",5
+82414,Matsuzaki,1
+82452,Landmannalaugar,1
+82454,Rotorua,2
+82456,Kawerau,1
+82458,Rotorua,3
+82460,Rotorua,2
+82504,"Kabouga Gate, Addo Elephant National Park",1
+82652,Pi�d�o,1
+82670,Dalton,1
+82698,St-Maurice,1
+82700,Urgup,2
+82766,Oslo,1
+82808,Bobbin Head,2
+82950,Champ�ry,1
+83006,Palam�s,1
+83090,Franschhoek,1
+83106,Sazes da Beira,1
+83108,Seia,1
+83152,Coimbra/Lous�,2
+83154,Coimbra/Lous�,3
+83252,Courmayeur,11
+83354,Santiago,1
+83378,Saint Martin V�subie,1
+83390,Cinf�es,1
+83408,Calistoga,1
+83528,Bocaina de Minas,57
+83530,Bocaina de Minas,38
+83632,Fouday,1
+83666,Sever do Vouga,4
+83668,Sever do Vouga,1
+83672,Sever do Vouga,2
+83676,Barcelos,8
+83730,Spain,1
+83734,Spain,1
+83736,SANREMO,1
+83820,Porto Moniz,3
+83822,Boaventura,5
+83824,Monte,5
+83826,Porto da Cruz,8
+83848,Santiago do Cac�m,1
+83950,Ljugarn,1
+84000,Trillevallen,1
+84012,Aguamansa (La Orotava),1
+84014,Vilaflor,1
+84018,Candelaria,1
+84054,Puerto Varas,8
+84058,Puerto Varas,1
+84060,Puerto Varas,3
+84062,Puerto Varas,10
+84064,Puerto Varas,13
+84096,Samo�ns,2
+84098,Verbier,1
+84100,La Fouly,1
+84102,Moay (Bruson) ,3
+84108,ORDINO,3
+84110,Ordino,2
+84112,Ordino,2
+84160,Ban Khun Wang,1
+84224,Stockholm,1
+84226,Stockholm,1
+84230,Stockholm,1
+84334,Barr,2
+84338,Colmar,1
+84340,Bergheim,1
+84348,Passy,1
+84354, Itatiaia/ Rio de Janeiro ,84
+84384,Currumbin,1
+84434,Norway,1
+84448,Andrate,1
+84460,Cortina d'Ampezzo,10
+84462,Cortina d'Ampezzo,2
+84464,San Vito di Cadore,6
+84466,"Corso Italia, Cortina d'Ampezzo",2
+84470,Vielha,25
+84474,Pla de Beret,3
+84478,Vielha,10
+84530,Bran,1
+84532,Bran,1
+84632,ANSI�O,1
+84636,ANSI�O,1
+84686,La Malbaie,1
+84708,val d'is�re,1
+84728,Llanberis,2
+84732,Llanberis,3
+84734,Fuschl am See,2
+84736,Salzburg,1
+84738,St. Gilgen,6
+84742,Koppl,1
+84744,Salzburg,2
+84746,Grindelwald,5
+84748,Grindelwald,3
+84752,Grindelwald,1
+84756,Grindelwald,3
+84760,Snowbird Center Plaza Area,1
+84788,Monistrol d'Allier,1
+84798,Ferreira do Z�zere,1
+84832,Heringer Millen,2
+84840,�irovnica,1
+84890,Chiang Mai,1
+84902,VILLA GENERAL BELGRANO,23
+84904,VILLA GENERAL BELGRANO,12
+84906,Villa General Belgrano,8
+84908,VILLA GENERAL BELGRANO,9
+84910,La Cumbrecita,19
+84914,Argentina,5
+84950,Auron,1
+84952,Roubion,1
+84954,Menton,5
+84956,Saint-Jean Cap Ferrat,2
+84988,San Carlos de Bariloche,2
+85062,Portalegre,2
+85064,Portalegre,2
+85088,Castiglione d'Orcia (SI),1
+85204,Menthon St bernard,1
+85212,Doussard,1
+85308,Llanberis,2
+85316,Castell� de la Plana,1
+85348,Kilfinane,1
+85396,Tesserete,1
+85426,St-Maurice,1
+85458,Barnstaple,1
+85462,LOANO,1
+85470,Corte,1
+85474,Corte,1
+85500,"Kintamani, Bangli, Bali",1
+85536,Ajaccio,1
+85538,Ajaccio,1
+85580,St-Ferr�ol-les-Neiges,1
+85608,SANTA CRISTINA D'ARO ,1
+85662,Aubusson d'Auvergne,1
+85670,Bray,1
+85672,Bray,2
+85674,Bray,2
+85676,Bray,2
+85724,Lyon,1
+85822,"Vigo de Sanabria, Zamora",1
+85846,Grindelwald,2
+85862,Val Cenis,2
+85958,Argentina,3
+85960,Argentina,1
+86076,"San Javier , Traslasierra",1
+86120,Beaupre,1
+86248,Le Markstein,1
+86250,Le Markstein,1
+86258,Umhausen,1
+86266,Obergurgl,1
+86418,H�gan�s,1
+86438,Pr� en Pail,1
+86496,Rouffach,1
+86522,"Iturbide, Nuevo Le�n",1
+86538,Santa Cita - Tomar,1
+86540,Santa Cita - Tomar,1
+86726,Kilfinane,1
+86788,Fiambala,1
+86816,Tilcara,1
+86874,Besan�on ,1
+86906,Charmey,2
+87038,Pit�es das J�nias,3
+87040,Cabril,1
+87042,Melga�o,1
+87044,Melga�o,1
+87046,Lindoso,2
+87048,Travassos,5
+87128,Num�o,2
+87130,Arnozelo,2
+87132,M�s do Douro,3
+87136,N�mes,1
+87212,Sneem,1
+87236,KCC Oval Katoomba,2
+87238,"KCC Oval, Katoomba",1
+87240,"KCC Oval, Katoomba",3
+87284,Monterreal Coahuila,1
+87362,Adelboden,2
+87364,Leukerbad,3
+87370,Roque de Los Muchachos,1
+87386,Fieberbrunn,2
+87390,Fieberbrunn,1
+87600,Maria Alm,1
+87632,MORZINE,1
+87758,Arouca,1
+87760,Arouca,2
+87770,Comuna Torres del Paine,4
+87772,Comuna Torres del Paine,5
+87774,Comuna Torres del Paine,5
+87776,Comuna Torres del Paine,1
+87790,Hall in Tirol,1
+87792,Grinzens,2
+87830,Montreux,3
+87856,Comuna Torres del Paine,9
+87858,Parque Nacional Torres del Paine,4
+87874,Huerta Grande,1
+87882,Dundas,1
+87920,Villa la Angostura,6
+87922,Villa la Angostura,4
+87930,Marco de Canaveses ,3
+88052,"Kintamani, Bangli, Bali",1
+88054,"Kintamani, Bangli, Bali",1
+88056,"Kintamani, Bangli, Bali",1
+88076,Courmayeur,15
+88112,Bouffemont,1
+88184,Castro Valley,1
+88204,Blairsville,1
+88258,ALQUEZAR,1
+88290,Natural Chimneys Park,1
+88294,Natural Chimneys Park,3
+88340,Monistrol de Montserrat,1
+88358,Roses,1
+88432,Corniglio - Parma,1
+88482,Montaria (viana do Castelo),2
+88484,Montaria,1
+88486,Dem (Caminha),1
+88500,Zinal,2
+88622,Barcelos,1
+88698,Ch�o de Couce - Ansi�o - Leiria ,1
+88708,AlUla,1
+88800,Varg�n,1
+88878,A�n,1
+88886,Kranjska gora Town Square,1
+88888,�irovnica,2
+88892,Kranjska gora Town Square,1
+89020,Ajdovscina,1
+89056,Locana,13
+89058,Locana,2
+89252,Condeixa-A-Nova,1
+89316,"Moc Chau, Son La",1
+89394,LYON,2
+89396,LYON,1
+89432,oslo,1
+89482,Treffort,1
+89488,Treffort,1
+89506,Eybens,2
+89536,La Falda,1
+89540,La Falda,1
+89660,Horta,1
+89664,Portalegre,2
+89688,Saint Nazaire les Eymes,1
+89690,Seyssins,1
+89702,Pedavena,1
+89746,Tisvilde,1
+89842,United States,1
+90150,Guadalajara,1
+90164,Otsu,1
+90178,Nida (Parnidis dune),1
+90292,Neltume,1
+90294,Neltume,1
+90396,gavirate,1
+90434,La Roche-en-Ardenne,1
+90456,Leuven,1
+90466,Lagrangeville,1
+90504,Le Markstein,1
+90536,ULJU,1
+90570,Ovifat,1
+90576,Beaufort,1
+90614,Pi�d�o,1
+90642,M�audre,1
+90650,Cape Town,1
+90652,Cape Town,1
+90656,Cape Town,2
+90666,Davos Platz,1
+90776,Vicenza,1
+90794,Saint NABORD,1
+90848,Monsaraz,1
+90900,Kucice,1
+90978,Sintra,1
+90980,Sintra,1
+90994,Cenes de la Vega,1
+91024,GEOJE-SI,1
+91050,Amares ,1
+91056,Trofa,2
+91170,El Soberbio,1
+91178,Fiambala,1
+91204,Seogwipo,1
+91214,Montlignon,1
+91228,Royal Park Rajapruek,1
+91232,Royal Park Rajapruek,1
+91236,"Friday Flat, Thredbo",2
+91240,"Bullocks Flat, Ski Tube Terminal",5
+91242,"Bullocks Flat, Ski Tube Terminal",2
+91308,Torla,1
+91312,Glasgow,1
+91406,BOUC BEL AIR,1
+91410,Auchel (62),1
+91416,Oignies (62),1
+91418,Fiames/Cortina,2
+91430,Otford,2
+91478,MILLAU,1
+91528,Australia,1
+91556,Mouriscas - Abrantes,1
+91596,La Thuile,1
+91808,Le Vigan,1
+91814,Le Vigan,1
+91888,DUESAIG�ES,4
+91996,Blairmore,1
+92012,Aywaille,1
+92056,Hardraw,1
+92256,Estoi,1
+92258,Estoi,1
+92282,Champ�ry,1
+92290,R�muzat,1
+92508,Tignes,1
+92764,Meta Tejeda,2
+92766,Agaete,1
+92836,Copenhagen,1
+92860,pola de somiedo,1
+92982,Argentina,1
+93008,Lantau Island,1
+93050,Villa La Angostura,9
+93152,67110 NIEDERBRONN LES BAINS,1
+93220,Shimanto,1
+93404,San Bernardino,1
+93412,Salta,24
+93414,SALTA,2
+93448,Laragh,1
+93476,The Village of Big Bear Lake,1
+93478,The Village of Big Bear Lake,1
+93480,The Village of Big Bear Lake,3
+93482,The Village of Big Bear Lake,1
+93488,Singapore,3
+93600,Couvet,2
+93744,Aldeia do Bispo - Sabugal,1
+93746,Aldeia do Bispo - Sabugal,1
+93752,Munster,1
+93754,Munster,2
+93818,TALYBONT,1
+93830,"Entre-ambos-os-Rios, Ponte da Barca",3
+94168,pucon,1
+94174,pucon,1
+94210,Chiang Mai,1
+94214,Mascota,3
+94218,Ejido Jorullo,1
+94252,Lyon,1
+94310,Morocco,2
+94344,Chinese Taipei,1
+94356,Australia,1
+94538,Santa Marta de Penagui�o,1
+94570,Salir,1
+94572,Salir,4
+94574,Salir,1
+94644,Palam�s,1
+94646,Girona,1
+94662,"Te Puia, Rotorua",2
+94666,"Te Puia, Rotorua",1
+94668,Lake Tikitapu (Blue Lake) Reserve,2
+94672,B�doin,1
+94736,Chamonix Mont Blanc,2
+94804,pucon,1
+94812,"Fruita CO, Mack Exit, Hawkeye Trailhead",1
+94844,Marcona,1
+94864,HUERTA GRANDE,1
+94872,"Page, Arizona",1
+94894,Ouarzazate,1
+94900,Wadi Rum City,1
+94924,LA CLUSAZ,1
+94950,Arbois,1
+94954,Arbois,1
+95094,Alagoa,4
+95098,Aiuruoca,23
+95102,Baependi,34
+95136,San Carlos de Bariloche,2
+95140,San Carlos de Bariloche,2
+95142,San Carlos de Bariloche,1
+95144,San Carlos de Bariloche,2
+95146,Villa Catedral,2
+95152,Glencullen ,2
+95156,Arrowtown,1
+95158,Arrowtown,1
+95398,Lake Tekapo,1
+95402,Oxford,1
+95524,Lickershamn,1
+95528,Haidm�hle,1
+95532,Haidm�hle,2
+95584,LA CLUSAZ,1
+95586,San Carlos de Bariloche,1
+95590,San Carlos de Bariloche,1
+95592,San Carlos de Bariloche,1
+95636,Lares,1
+95662,Spain,4
+95664,Spain,2
+95666,Spain,3
+95668,Spain,4
+95762,Penacova,2
+95764,Penacova,3
+95766,Penacova,2
+95782,Leende,1
+95784,Noordwijk,1
+95851,Buzet,3
+95855,Gro�njan ,1
+95857,Motovun,1
+95916,LARUNS,1
+95942,Ciutadella de Menorca,1
+96008,Camporosso Valcanale,1
+96328,Spain,1
+96332,Spain,1
+96388,Torbole sul Garda,1
+96436,Riyadh / Dhurma ,2
+96468,Fouday,1
+96492,Los Corrales de Catemu,1
+96572,Radda in Chianti,2
+96574,Radda in Chianti,2
+96576,Radda in Chianti,10
+96606,Heiderscheid,1
+96612,Soucieu-en-jarrest,1
+96614,Sainte-Catherine,1
+96618,Saint-Etienne,2
+96672,Auderghem,1
+96770,linguaglossa,2
+96912,Ljugarn,1
+96940,Aalst,1
+96948,Vaals,2
+97024,Sat�o,3
+97072,Miranda do Corvo,1
+97076,Miranda do Corvo,1
+97092,Oxberg,1
+97100,Kabupaten Bogor,1
+97118,Canet d'Adri,1
+97276,Delfim Moreira ,17
+97278,Alagoa,40
+97282,Aiuruoca,14
+97284,Baependi,19
+97356,Cormeilles en Parisis,1
+97428,Arganil ,2
+97430,Arganil ,1
+97478,Abrantes,1
+97494,Vaals,1
+97540,Santa Cita - Tomar,2
+97658,Sever do Vouga,1
+97660,Sever do Vouga,4
+97662,Sever do Vouga,2
+97672,L'Abbaye,1
+97736,Fontenais,2
+97882,Cruzilia,8
+97954,Katoomba,1
+98278,Muang Chiang Mai,1
+98336,S�lvesborg,1
+98576,Ferreira do Z�zere,1
+98592,Puerto Varas,1
+98728,hatch,11
+98814,France,1
+98816,France,2
+98908,Castiglione d'Orcia (SI),1
+98976,Terrasse de l'Observatoire de Meudon (92),3
+98980,Ile de Loisirs de Saint-Quentin-en-Yvelines (78),3
+98982,Terrasse de l'Observatoire de Meudon (92),3
+99042,La Clusaz,1
+99052,LA CLUSAZ,1
+99076,Villa La Angostura,108
+99078,Villa La Angostura,147
+99082,Villa La Angostura,17
+99084,Villa La Angostura,39
+99224,Hoa Binh,1
+99242,Lao Cai,1
+99354,RIGLOS,1
+99368,Switzerland,1
+99440,"40.32214, -7.6127",1
+99464,San Carlos de Bariloche,1
+99572,GDANSK,1
+99638,AlUla,2
+99798,"Aldeia Velha, Amarante",1
+99800,Ri�inahue,1
+100076,Agualva,1
+100078,Biscoitos,1
+100242,Ras Al Khaimah,1
+100386,Tavarnelle Val di Pesa,1
+100532,Villa Yacanto de Calamuchita,1
+100536,Villa Yacanto de Calamuchita,1
+100538,Villa Yacanto de Calamuchita,2
+100540,Villa Yacanto de Calamuchita,1
+100614,Radda in Chianti,1
+100718,Canada,1
+100978,Santiago da Guarda,1
+101134,Santa Marta,1
+101162,Branzelo,2
+101164,Gondomar,1
+101380,PRADES,1
+101678,Ouarzazate,1
+101760,Montalcino,1
+101872,Haslemere,1
+101874,Haslemere,1
+102034,Uccle,1
+102082,Castiglion Fiorentino,1
+102086,Castiglion Fiorentino,1
+102170,United States,1
+102254,ushuaia,2
+102266,Spring Valley,1
+102268,"Spring Valley, AZ",3
+102334,Eybens,6
+102404,llanganuco,1
+102484,Porto Moniz,1
+102996,Pedavena,1
+103284,Geoje-si dundeock-myeon,1
+103384,Santo Tirso,4
+103638,Navazzo di Gargnano,1
+103746,Lithgow,1
+103832,Valongo,1
+103976,Lausanne,2
+104072,Borriol,1
+104194,Tai Tam Country Park,1
+104238,Morbegno,1
+104502,Cordillera/ Atyr�,1
+104752,Santa Ana Jilotzingo,1
+104936,"Fonte da Areia, Porto Santo",1
+104938,Portugal,1
+104940,Portugal,1
+106636,Sabadell,2
+106934,Comuna Torres del Paine,5
+106936,pucon,1
