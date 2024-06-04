@@ -1,4 +1,4 @@
-corredores.id-corredor,corredores.ageGroup,corredores.fullname,corredores.uri,corredores.nationality,corredores.sex,corredores.Club,corredores.Team,corredores.Sponsor(s),corredores.Description,corredores.Geral,corredores.20K,corredores.50K,corredores.100K,corredores.100m
+id-corredor,ageGroup,fullname,uri,nationality,sex,Club,Team,Sponsor(s),Description,Geral,20K,50K,100K,100m
 5444,65-69,Michael John DE FREITAS,5444.michaeljohn.defreitas,BR,H,,,,,341,,341,,
 12619,40-44,Fernanda MACIEL,12619.fernanda.maciel,BR,F,,,The North Face,,585,,586,,
 20086,55-59,Andre ARRUDA,20086.andre.arruda,BR,H,,,,,,,,,
